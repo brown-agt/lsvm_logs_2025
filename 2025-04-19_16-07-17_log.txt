@@ -1,0 +1,543 @@
+
+Auction 1: TA - Confidence (National) VS TA - Jumper VS TA - SECRET VS TA - RANDOM VS TA - Truthful VS PW - Hot'n'Cold
+TA - Confidence won Good O at Price 9.52, Good H at Price 15.25, Good A at Price 15.42, Good G at Price 8.85, Good B at Price 5.10, Good R at Price 10.29, Good J at Price 11.42, Good K at Price 9.90.
+TA - Confidence got a final utility of -42.53050404034208
+TA - Jumper won Good N at Price 15.05, Good P at Price 13.64, Good M at Price 14.93.
+TA - Jumper got a final utility of 10.662374944466038
+TA - SECRET got a final utility of 0
+TA - RANDOM won Good D at Price 15.42, Good I at Price 13.90.
+TA - RANDOM got a final utility of 8.853772412754317
+TA - Truthful got a final utility of 0
+PW - Hot'n'Cold won Good C at Price 16.38, Good Q at Price 23.44, Good F at Price 20.88, Good L at Price 14.35, Good E at Price 22.61, Good J at Price 11.42, Good K at Price 9.90.
+PW - Hot'n'Cold got a final utility of 46.75930438232622
+
+Auction 2: TA - Confidence VS TA - Jumper (National) VS TA - SECRET VS TA - RANDOM VS TA - Truthful VS PW - Hot'n'Cold
+TA - Confidence won Good C at Price 14.65, Good O at Price 10.09, Good Q at Price 33.87.
+TA - Confidence got a final utility of -19.773954991394938
+TA - Jumper won Good M at Price 5.70, Good A at Price 4.20.
+TA - Jumper got a final utility of 0.11254008122825887
+TA - SECRET won Good R at Price 7.53, Good F at Price 18.06, Good E at Price 12.73, Good L at Price 12.48.
+TA - SECRET got a final utility of 22.149279262048275
+TA - RANDOM got a final utility of 0
+TA - Truthful got a final utility of 0
+PW - Hot'n'Cold won Good C at Price 14.65, Good O at Price 10.09, Good H at Price 35.91, Good I at Price 20.09, Good P at Price 16.57, Good D at Price 39.41, Good G at Price 9.24, Good B at Price 13.76, Good N at Price 16.49, Good J at Price 43.24, Good K at Price 25.02.
+PW - Hot'n'Cold got a final utility of 110.46388158671246
+
+Auction 3: TA - Confidence VS TA - Jumper VS TA - SECRET (National) VS TA - RANDOM VS TA - Truthful VS PW - Hot'n'Cold
+TA - Confidence won Good C at Price 12.70, Good H at Price 19.12, Good D at Price 19.34, Good E at Price 15.55, Good J at Price 8.41.
+TA - Confidence got a final utility of 42.822546689455166
+TA - Jumper won Good O at Price 19.18.
+TA - Jumper got a final utility of 1.4670720214462314
+TA - SECRET got a final utility of 0
+TA - RANDOM won Good K at Price 16.64, Good L at Price 11.50, Good F at Price 12.50, Good Q at Price 13.38.
+TA - RANDOM got a final utility of 58.61859636779728
+TA - Truthful won Good R at Price 17.48, Good P at Price 16.27.
+TA - Truthful got a final utility of 2.6589773249697046
+PW - Hot'n'Cold won Good M at Price 30.48, Good H at Price 19.12, Good I at Price 30.63, Good A at Price 29.28, Good G at Price 23.61, Good B at Price 18.95, Good N at Price 26.70.
+PW - Hot'n'Cold got a final utility of 49.76902402395223
+
+Auction 4: TA - Confidence VS TA - Jumper VS TA - SECRET VS TA - RANDOM (National) VS TA - Truthful VS PW - Hot'n'Cold
+TA - Confidence won Good B at Price 18.99, Good C at Price 14.49, Good I at Price 17.67, Good E at Price 11.70.
+TA - Confidence got a final utility of 20.951244135766103
+TA - Jumper won Good N at Price 15.79, Good O at Price 9.58, Good H at Price 18.50, Good A at Price 15.96.
+TA - Jumper got a final utility of 20.51119380440464
+TA - SECRET got a final utility of 0
+TA - RANDOM won Good G at Price 8.89.
+TA - RANDOM got a final utility of 0.08505294283338038
+TA - Truthful won Good M at Price 11.39.
+TA - Truthful got a final utility of 0.9370818667400762
+PW - Hot'n'Cold won Good Q at Price 15.94, Good F at Price 25.61, Good P at Price 33.55, Good I at Price 17.67, Good D at Price 16.32, Good L at Price 7.80, Good R at Price 15.00, Good J at Price 17.39, Good K at Price 18.05.
+PW - Hot'n'Cold got a final utility of 128.54978404416468
+
+Auction 5: TA - Confidence VS TA - Jumper VS TA - SECRET VS TA - RANDOM VS TA - Truthful (National) VS PW - Hot'n'Cold
+TA - Confidence won Good B at Price 15.66, Good N at Price 14.30, Good M at Price 12.91, Good G at Price 15.72.
+TA - Confidence got a final utility of 27.454657142749994
+TA - Jumper won Good A at Price 14.18.
+TA - Jumper got a final utility of 1.1595143465984403
+TA - SECRET got a final utility of 0
+TA - RANDOM won Good F at Price 8.50, Good E at Price 14.74, Good K at Price 11.90.
+TA - RANDOM got a final utility of 20.78230091085524
+TA - Truthful won Good R at Price 5.30.
+TA - Truthful got a final utility of 0.00777506538908046
+PW - Hot'n'Cold won Good C at Price 19.67, Good Q at Price 14.52, Good O at Price 26.21, Good I at Price 26.95, Good H at Price 24.49, Good P at Price 26.70, Good D at Price 22.76, Good L at Price 14.81, Good J at Price 19.82, Good K at Price 11.90.
+PW - Hot'n'Cold got a final utility of 212.21994752627205
+
+Auction 6: TA - Confidence VS TA - Jumper VS TA - SECRET VS TA - RANDOM VS TA - Truthful VS PW - Hot'n'Cold (National)
+TA - Confidence won Good B at Price 15.38, Good I at Price 10.44, Good J at Price 6.50, Good K at Price 13.91.
+TA - Confidence got a final utility of -6.34916563531538
+TA - Jumper won Good O at Price 14.78, Good G at Price 18.49.
+TA - Jumper got a final utility of 2.605615594110624
+TA - SECRET won Good N at Price 8.97, Good H at Price 11.79.
+TA - SECRET got a final utility of 11.819005597339782
+TA - RANDOM won Good Q at Price 12.70, Good F at Price 13.20, Good R at Price 14.44, Good E at Price 15.20, Good L at Price 11.30.
+TA - RANDOM got a final utility of 92.180731702891
+TA - Truthful got a final utility of 0
+PW - Hot'n'Cold won Good C at Price 18.71, Good M at Price 19.86, Good Q at Price 12.70, Good F at Price 13.20, Good I at Price 10.44, Good H at Price 11.79, Good O at Price 14.78, Good A at Price 16.26, Good P at Price 29.37, Good D at Price 28.44, Good G at Price 18.49, Good B at Price 15.38, Good N at Price 8.97, Good R at Price 14.44, Good J at Price 6.50, Good K at Price 13.91.
+PW - Hot'n'Cold got a final utility of 117.03771815006468
+
+Auction 7: TA - Confidence (National) VS TA - Jumper VS TA - MinBidder VS PW - Hot'n'Cold VS TA - RANDOM VS TA - Truthful
+TA - Confidence won Good Q at Price 6.20, Good P at Price 4.20, Good K at Price 5.36.
+TA - Confidence got a final utility of 0.26728598306913653
+TA - Jumper won Good R at Price 14.49, Good F at Price 13.13, Good L at Price 19.30.
+TA - Jumper got a final utility of 20.315422337710515
+TA - MinBidder won Good M at Price 11.20.
+TA - MinBidder got a final utility of 4.647760272364142
+PW - Hot'n'Cold won Good C at Price 28.17, Good O at Price 29.56, Good I at Price 12.26, Good H at Price 26.50, Good A at Price 30.03, Good D at Price 24.02, Good B at Price 21.22, Good E at Price 24.42, Good J at Price 14.85.
+PW - Hot'n'Cold got a final utility of 84.05493587988684
+TA - RANDOM won Good N at Price 11.20, Good I at Price 12.26, Good J at Price 14.85, Good G at Price 11.20.
+TA - RANDOM got a final utility of 13.75092329391505
+TA - Truthful got a final utility of 0
+
+Auction 8: TA - Confidence VS TA - Jumper (National) VS TA - MinBidder VS PW - Hot'n'Cold VS TA - RANDOM VS TA - Truthful
+TA - Confidence won Good R at Price 14.12, Good J at Price 18.90.
+TA - Confidence got a final utility of 6.277568783903419
+TA - Jumper won Good C at Price 6.80, Good D at Price 8.75, Good G at Price 6.90.
+TA - Jumper got a final utility of 0.16804856820759895
+TA - MinBidder won Good F at Price 14.92, Good L at Price 15.89.
+TA - MinBidder got a final utility of 6.098451062187316
+PW - Hot'n'Cold won Good Q at Price 22.79, Good O at Price 27.18, Good P at Price 24.42, Good L at Price 15.89, Good E at Price 25.59, Good J at Price 18.90, Good K at Price 23.04.
+PW - Hot'n'Cold got a final utility of 50.84736864623022
+TA - RANDOM won Good M at Price 9.00, Good H at Price 9.00, Good A at Price 9.00, Good B at Price 8.40, Good N at Price 9.00.
+TA - RANDOM got a final utility of 118.07445067604732
+TA - Truthful won Good I at Price 16.47.
+TA - Truthful got a final utility of 3.2881451611899415
+
+Auction 9: TA - Confidence VS TA - Jumper VS TA - MinBidder (National) VS PW - Hot'n'Cold VS TA - RANDOM VS TA - Truthful
+TA - Confidence won Good O at Price 9.20.
+TA - Confidence got a final utility of 0.7759581451561424
+TA - Jumper won Good M at Price 13.21, Good A at Price 17.52.
+TA - Jumper got a final utility of 2.4076602761880395
+TA - MinBidder got a final utility of 0
+PW - Hot'n'Cold won Good C at Price 38.97, Good H at Price 26.55, Good I at Price 32.54, Good A at Price 17.52, Good D at Price 30.23, Good G at Price 20.27, Good B at Price 27.61, Good N at Price 21.74.
+PW - Hot'n'Cold got a final utility of 59.326139893624486
+TA - RANDOM won Good Q at Price 13.90, Good K at Price 7.20, Good F at Price 13.90, Good P at Price 10.50, Good R at Price 13.90, Good J at Price 17.40, Good L at Price 9.20.
+TA - RANDOM got a final utility of 148.51535030188575
+TA - Truthful won Good E at Price 13.90.
+TA - Truthful got a final utility of 4.94140093960344
+
+Auction 10: TA - Confidence VS TA - Jumper VS TA - MinBidder VS PW - Hot'n'Cold (National) VS TA - RANDOM VS TA - Truthful
+TA - Confidence won Good C at Price 19.58, Good M at Price 15.90.
+TA - Confidence got a final utility of 2.8801439628120136
+TA - Jumper won Good P at Price 17.10, Good K at Price 16.10.
+TA - Jumper got a final utility of 7.796207577832703
+TA - MinBidder won Good B at Price 13.83, Good I at Price 19.66, Good H at Price 16.67.
+TA - MinBidder got a final utility of 21.975480771435826
+PW - Hot'n'Cold won Good C at Price 19.58, Good M at Price 15.90, Good Q at Price 13.00, Good F at Price 13.10, Good H at Price 16.67, Good O at Price 31.09, Good A at Price 35.06, Good D at Price 29.57, Good G at Price 29.58, Good B at Price 13.83, Good N at Price 17.44, Good R at Price 12.80, Good E at Price 17.62, Good J at Price 13.70, Good L at Price 12.90.
+PW - Hot'n'Cold got a final utility of 128.0860117300827
+TA - RANDOM got a final utility of 0
+TA - Truthful won Good J at Price 13.70.
+TA - Truthful got a final utility of 1.096500482503627
+
+Auction 11: TA - Confidence VS TA - Jumper VS TA - MinBidder VS PW - Hot'n'Cold VS TA - RANDOM (National) VS TA - Truthful
+TA - Confidence won Good F at Price 15.78, Good E at Price 19.71, Good L at Price 19.88.
+TA - Confidence got a final utility of -13.616984412847557
+TA - Jumper won Good R at Price 15.18.
+TA - Jumper got a final utility of 4.449100967216358
+TA - MinBidder won Good C at Price 8.70, Good H at Price 5.30, Good M at Price 10.00.
+TA - MinBidder got a final utility of 4.102407117454749
+PW - Hot'n'Cold won Good Q at Price 27.44, Good O at Price 13.28, Good I at Price 25.52, Good P at Price 19.27, Good D at Price 26.17, Good N at Price 26.96, Good J at Price 28.14, Good K at Price 28.16.
+PW - Hot'n'Cold got a final utility of 110.51131812682246
+TA - RANDOM won Good B at Price 6.10, Good G at Price 5.90, Good A at Price 6.70.
+TA - RANDOM got a final utility of 0.24540178862108775
+TA - Truthful got a final utility of 0
+
+Auction 12: TA - Confidence VS TA - Jumper VS TA - MinBidder VS PW - Hot'n'Cold VS TA - RANDOM VS TA - Truthful (National)
+TA - Confidence won Good Q at Price 15.92.
+TA - Confidence got a final utility of 1.289703746503065
+TA - Jumper won Good R at Price 11.61, Good P at Price 18.97, Good J at Price 16.03.
+TA - Jumper got a final utility of 7.769011891598431
+TA - MinBidder won Good N at Price 12.90, Good H at Price 16.88, Good M at Price 15.49, Good G at Price 6.80.
+TA - MinBidder got a final utility of 46.963630210300956
+PW - Hot'n'Cold won Good C at Price 21.65, Good O at Price 25.74, Good I at Price 25.46, Good A at Price 16.79, Good D at Price 15.35, Good B at Price 12.10, Good E at Price 18.40, Good J at Price 16.03.
+PW - Hot'n'Cold got a final utility of 81.06320958969869
+TA - RANDOM won Good B at Price 12.10.
+TA - RANDOM got a final utility of 1.0019558746941932
+TA - Truthful won Good K at Price 7.03, Good F at Price 4.60, Good L at Price 6.04.
+TA - Truthful got a final utility of 0.14045448376264602
+
+Auction 13: TA - Jumper (National) VS TA - SECRET VS PW - Hot'n'Cold VS TA - RANDOM VS TA - Truthful VS TA - MinBidder
+TA - Jumper got a final utility of 0
+TA - SECRET won Good A at Price 15.27, Good M at Price 14.56, Good G at Price 17.47.
+TA - SECRET got a final utility of 14.170838164316379
+PW - Hot'n'Cold won Good C at Price 21.11, Good M at Price 14.56, Good Q at Price 14.67, Good O at Price 9.67, Good H at Price 28.42, Good I at Price 19.75, Good P at Price 18.15, Good N at Price 20.39.
+PW - Hot'n'Cold got a final utility of 81.41399460025534
+TA - RANDOM won Good Q at Price 14.67, Good F at Price 12.50, Good R at Price 13.80, Good E at Price 12.90, Good L at Price 13.80.
+TA - RANDOM got a final utility of 97.63565361621966
+TA - Truthful got a final utility of 0
+TA - MinBidder won Good B at Price 11.03, Good D at Price 13.80, Good J at Price 17.81, Good K at Price 13.80.
+TA - MinBidder got a final utility of 28.441813728816534
+
+Auction 14: TA - Jumper VS TA - SECRET (National) VS PW - Hot'n'Cold VS TA - RANDOM VS TA - Truthful VS TA - MinBidder
+TA - Jumper won Good O at Price 15.78.
+TA - Jumper got a final utility of 1.3022644429528114
+TA - SECRET got a final utility of 0
+PW - Hot'n'Cold won Good C at Price 23.15, Good M at Price 26.81, Good O at Price 15.78, Good H at Price 25.47, Good I at Price 26.56, Good A at Price 22.44, Good G at Price 19.16, Good B at Price 19.16, Good N at Price 14.69, Good J at Price 16.96.
+PW - Hot'n'Cold got a final utility of 104.71159961359834
+TA - RANDOM won Good R at Price 14.20, Good L at Price 12.40, Good E at Price 14.20, Good Q at Price 12.06.
+TA - RANDOM got a final utility of 26.96882509107393
+TA - Truthful won Good N at Price 14.69, Good P at Price 13.23, Good J at Price 16.96.
+TA - Truthful got a final utility of 7.020956063397918
+TA - MinBidder won Good D at Price 14.20, Good F at Price 14.20, Good K at Price 14.20.
+TA - MinBidder got a final utility of 7.89850976293593
+
+Auction 15: TA - Jumper VS TA - SECRET VS PW - Hot'n'Cold (National) VS TA - RANDOM VS TA - Truthful VS TA - MinBidder
+TA - Jumper won Good B at Price 16.72.
+TA - Jumper got a final utility of 1.321202364477589
+TA - SECRET got a final utility of 0
+PW - Hot'n'Cold won Good C at Price 29.70, Good M at Price 14.15, Good Q at Price 17.40, Good F at Price 17.40, Good I at Price 17.25, Good H at Price 27.31, Good A at Price 20.92, Good O at Price 17.40, Good P at Price 16.66, Good D at Price 19.20, Good G at Price 32.21, Good L at Price 33.39, Good B at Price 16.72, Good N at Price 31.11, Good R at Price 12.30, Good J at Price 15.21, Good K at Price 30.73.
+PW - Hot'n'Cold got a final utility of 98.76583935034051
+TA - RANDOM won Good R at Price 12.30.
+TA - RANDOM got a final utility of 0.9616818973496297
+TA - Truthful got a final utility of 0
+TA - MinBidder won Good F at Price 17.40, Good I at Price 17.25, Good D at Price 19.20, Good E at Price 17.70, Good J at Price 15.21.
+TA - MinBidder got a final utility of 102.082523994539
+
+Auction 16: TA - Jumper VS TA - SECRET VS PW - Hot'n'Cold VS TA - RANDOM (National) VS TA - Truthful VS TA - MinBidder
+TA - Jumper won Good L at Price 13.46, Good F at Price 19.67, Good E at Price 19.61, Good Q at Price 16.78.
+TA - Jumper got a final utility of 24.34151554184413
+TA - SECRET won Good R at Price 4.04.
+TA - SECRET got a final utility of 3.3737483265541908
+PW - Hot'n'Cold won Good C at Price 12.88, Good Q at Price 16.78, Good O at Price 19.05, Good I at Price 21.92, Good D at Price 25.87, Good L at Price 13.46, Good J at Price 26.17, Good K at Price 18.10.
+PW - Hot'n'Cold got a final utility of 99.67046065205164
+TA - RANDOM won Good B at Price 3.30, Good G at Price 6.90, Good A at Price 4.70.
+TA - RANDOM got a final utility of 0.20457885973909562
+TA - Truthful won Good N at Price 5.90, Good H at Price 11.30, Good M at Price 7.90.
+TA - Truthful got a final utility of 21.94694340764809
+TA - MinBidder won Good P at Price 11.80, Good K at Price 18.10.
+TA - MinBidder got a final utility of 3.3646817427304256
+
+Auction 17: TA - Jumper VS TA - SECRET VS PW - Hot'n'Cold VS TA - RANDOM VS TA - Truthful (National) VS TA - MinBidder
+TA - Jumper won Good D at Price 16.62, Good F at Price 13.37, Good E at Price 8.21, Good K at Price 18.69.
+TA - Jumper got a final utility of 47.39323084528809
+TA - SECRET won Good C at Price 8.73, Good J at Price 8.65, Good L at Price 10.81.
+TA - SECRET got a final utility of 7.215820401705884
+PW - Hot'n'Cold won Good M at Price 15.89, Good O at Price 24.46, Good P at Price 18.53, Good I at Price 21.70, Good H at Price 20.37, Good G at Price 17.57, Good B at Price 24.77, Good N at Price 17.39.
+PW - Hot'n'Cold got a final utility of 109.70130078871946
+TA - RANDOM got a final utility of 0
+TA - Truthful won Good R at Price 8.71, Good Q at Price 5.98.
+TA - Truthful got a final utility of 0.15517919569844985
+TA - MinBidder won Good A at Price 9.80.
+TA - MinBidder got a final utility of 7.054784108911813
+
+Auction 18: TA - Jumper VS TA - SECRET VS PW - Hot'n'Cold VS TA - RANDOM VS TA - Truthful VS TA - MinBidder (National)
+TA - Jumper won Good O at Price 7.40, Good H at Price 18.47, Good Q at Price 12.09.
+TA - Jumper got a final utility of 3.5526914009578405
+TA - SECRET won Good C at Price 22.39, Good I at Price 19.42, Good E at Price 29.60, Good J at Price 22.72, Good K at Price 30.22.
+TA - SECRET got a final utility of 36.843516460653376
+PW - Hot'n'Cold won Good F at Price 30.81, Good I at Price 19.42, Good P at Price 26.34, Good D at Price 17.03, Good B at Price 36.97, Good E at Price 29.60.
+PW - Hot'n'Cold got a final utility of -80.64344347443505
+TA - RANDOM won Good M at Price 14.44.
+TA - RANDOM got a final utility of 1.1634068498685313
+TA - Truthful won Good N at Price 15.61, Good G at Price 12.90, Good A at Price 12.90.
+TA - Truthful got a final utility of 18.569381296826727
+TA - MinBidder won Good R at Price 3.80, Good L at Price 4.50.
+TA - MinBidder got a final utility of 0.11060458179711752
+
+Auction 19: TA - Jumper (National) VS TA - SECRET VS PW - Hot'n'Cold VS TA - RANDOM VS TA - Truthful VS TA - Confidence
+TA - Jumper won Good B at Price 8.06, Good N at Price 8.80, Good M at Price 7.10, Good G at Price 7.90.
+TA - Jumper got a final utility of 0.22122705525768893
+TA - SECRET won Good D at Price 15.02.
+TA - SECRET got a final utility of -2.344596713112015
+PW - Hot'n'Cold won Good C at Price 19.76, Good Q at Price 17.66, Good K at Price 24.76, Good O at Price 16.12, Good H at Price 20.43, Good I at Price 25.54, Good P at Price 21.55, Good D at Price 15.02, Good E at Price 25.96, Good J at Price 21.96, Good L at Price 25.88.
+PW - Hot'n'Cold got a final utility of 168.87573462687743
+TA - RANDOM won Good A at Price 9.10.
+TA - RANDOM got a final utility of 1.8525797096411445
+TA - Truthful got a final utility of 0
+TA - Confidence won Good R at Price 9.50, Good F at Price 10.07.
+TA - Confidence got a final utility of -5.021826451266481
+
+Auction 20: TA - Jumper VS TA - SECRET (National) VS PW - Hot'n'Cold VS TA - RANDOM VS TA - Truthful VS TA - Confidence
+TA - Jumper got a final utility of 0
+TA - SECRET won Good Q at Price 4.30.
+TA - SECRET got a final utility of 4.046863448670688
+PW - Hot'n'Cold won Good K at Price 16.49, Good F at Price 31.54, Good R at Price 8.40, Good E at Price 27.05, Good L at Price 17.14.
+PW - Hot'n'Cold got a final utility of 14.055610145846202
+TA - RANDOM won Good A at Price 19.16, Good M at Price 16.64, Good G at Price 18.56.
+TA - RANDOM got a final utility of 24.36652241773359
+TA - Truthful got a final utility of 0
+TA - Confidence won Good C at Price 18.11, Good O at Price 5.59, Good P at Price 13.62, Good I at Price 18.75, Good H at Price 7.11, Good D at Price 17.68, Good B at Price 16.01, Good N at Price 11.19, Good J at Price 16.46, Good K at Price 16.49.
+TA - Confidence got a final utility of 154.1426448603316
+
+Auction 21: TA - Jumper VS TA - SECRET VS PW - Hot'n'Cold (National) VS TA - RANDOM VS TA - Truthful VS TA - Confidence
+TA - Jumper won Good B at Price 13.78, Good N at Price 11.70, Good H at Price 14.71, Good A at Price 14.60.
+TA - Jumper got a final utility of 57.46890239620079
+TA - SECRET got a final utility of 0
+PW - Hot'n'Cold won Good C at Price 24.64, Good M at Price 14.62, Good Q at Price 16.14, Good K at Price 26.39, Good F at Price 13.76, Good I at Price 33.17, Good P at Price 25.17, Good O at Price 22.93, Good D at Price 27.09, Good G at Price 17.43, Good N at Price 11.70, Good R at Price 13.36, Good E at Price 19.37, Good J at Price 16.09, Good L at Price 31.46.
+PW - Hot'n'Cold got a final utility of 67.6100935025791
+TA - RANDOM got a final utility of 0
+TA - Truthful got a final utility of 0
+TA - Confidence won Good Q at Price 16.14, Good F at Price 13.76, Good R at Price 13.36, Good E at Price 19.37, Good J at Price 16.09.
+TA - Confidence got a final utility of -4.873936683875684
+
+Auction 22: TA - Jumper VS TA - SECRET VS PW - Hot'n'Cold VS TA - RANDOM (National) VS TA - Truthful VS TA - Confidence
+TA - Jumper got a final utility of 0
+TA - SECRET got a final utility of 0
+PW - Hot'n'Cold won Good Q at Price 22.39, Good O at Price 22.66, Good I at Price 14.97, Good P at Price 16.48, Good D at Price 11.97, Good N at Price 23.53, Good R at Price 22.94, Good J at Price 22.04, Good K at Price 25.49.
+PW - Hot'n'Cold got a final utility of 86.73657041308036
+TA - RANDOM won Good B at Price 5.90, Good F at Price 8.73, Good M at Price 7.20, Good A at Price 3.10.
+TA - RANDOM got a final utility of 0.32497730548872994
+TA - Truthful won Good C at Price 7.20, Good G at Price 7.20, Good I at Price 14.97, Good H at Price 7.20.
+TA - Truthful got a final utility of 48.51720087894659
+TA - Confidence won Good E at Price 11.12, Good L at Price 17.26.
+TA - Confidence got a final utility of -1.0012738780924337
+
+Auction 23: TA - Jumper VS TA - SECRET VS PW - Hot'n'Cold VS TA - RANDOM VS TA - Truthful (National) VS TA - Confidence
+TA - Jumper got a final utility of 0
+TA - SECRET won Good C at Price 15.39, Good I at Price 16.95, Good H at Price 17.00, Good A at Price 18.14, Good G at Price 18.70, Good B at Price 7.18, Good N at Price 11.73.
+TA - SECRET got a final utility of 94.37520266986554
+PW - Hot'n'Cold won Good Q at Price 25.59, Good K at Price 25.99, Good O at Price 18.66, Good P at Price 16.30, Good R at Price 13.28, Good E at Price 37.25, Good J at Price 27.66, Good L at Price 31.34.
+PW - Hot'n'Cold got a final utility of 85.64251820445446
+TA - RANDOM won Good M at Price 16.63.
+TA - RANDOM got a final utility of 1.3140059654199803
+TA - Truthful got a final utility of 0
+TA - Confidence won Good D at Price 33.85, Good R at Price 13.28, Good F at Price 14.27.
+TA - Confidence got a final utility of -14.365717451688077
+
+Auction 24: TA - Jumper VS TA - SECRET VS PW - Hot'n'Cold VS TA - RANDOM VS TA - Truthful VS TA - Confidence (National)
+TA - Jumper won Good G at Price 18.60.
+TA - Jumper got a final utility of 1.481004141368249
+TA - SECRET got a final utility of 0
+PW - Hot'n'Cold won Good C at Price 22.13, Good M at Price 13.16, Good Q at Price 13.02, Good H at Price 18.84, Good P at Price 15.20, Good N at Price 14.47, Good J at Price 16.40.
+PW - Hot'n'Cold got a final utility of -7.12094985687105
+TA - RANDOM won Good O at Price 7.80, Good I at Price 15.06, Good A at Price 17.54.
+TA - RANDOM got a final utility of 13.045635763495767
+TA - Truthful got a final utility of 0
+TA - Confidence won Good M at Price 13.16, Good F at Price 6.63, Good D at Price 13.69, Good L at Price 5.31, Good B at Price 8.83, Good R at Price 3.90, Good E at Price 14.96, Good K at Price 13.01.
+TA - Confidence got a final utility of -29.14388587826639
+
+Auction 25: TA - Confidence (National) VS TA - Jumper VS PW - Hot'n'Cold VS TA - RANDOM VS TA - Truthful VS TA - SECRET
+TA - Confidence won Good M at Price 5.37, Good F at Price 9.28, Good A at Price 10.08, Good G at Price 10.74, Good B at Price 5.60, Good R at Price 18.60, Good L at Price 16.77.
+TA - Confidence got a final utility of -40.47304513530862
+TA - Jumper won Good Q at Price 16.30.
+TA - Jumper got a final utility of 1.4493673075617757
+PW - Hot'n'Cold won Good C at Price 11.96, Good O at Price 6.50, Good H at Price 18.28, Good I at Price 20.05, Good P at Price 21.43, Good D at Price 25.61, Good L at Price 16.77, Good E at Price 22.87, Good J at Price 17.20, Good K at Price 10.95.
+PW - Hot'n'Cold got a final utility of 79.36590260943802
+TA - RANDOM won Good N at Price 18.21, Good O at Price 6.50, Good J at Price 17.20, Good K at Price 10.95.
+TA - RANDOM got a final utility of 11.870966147449792
+TA - Truthful got a final utility of 0
+TA - SECRET got a final utility of 0
+
+Auction 26: TA - Confidence VS TA - Jumper (National) VS PW - Hot'n'Cold VS TA - RANDOM VS TA - Truthful VS TA - SECRET
+TA - Confidence won Good N at Price 18.90, Good O at Price 14.58, Good G at Price 8.27, Good K at Price 15.35.
+TA - Confidence got a final utility of 7.0666082231528975
+TA - Jumper won Good Q at Price 5.80, Good R at Price 5.00, Good F at Price 3.50, Good L at Price 8.10.
+TA - Jumper got a final utility of 0.33143510701749435
+PW - Hot'n'Cold won Good C at Price 23.19, Good I at Price 23.70, Good H at Price 16.05, Good A at Price 18.11, Good D at Price 21.29, Good B at Price 25.10, Good E at Price 13.22.
+PW - Hot'n'Cold got a final utility of 75.43457626914054
+TA - RANDOM won Good P at Price 12.24, Good J at Price 18.82.
+TA - RANDOM got a final utility of 9.478373848264933
+TA - Truthful got a final utility of 0
+TA - SECRET won Good M at Price 10.95.
+TA - SECRET got a final utility of 7.164680279331744
+
+Auction 27: TA - Confidence VS TA - Jumper VS PW - Hot'n'Cold (National) VS TA - RANDOM VS TA - Truthful VS TA - SECRET
+TA - Confidence won Good B at Price 12.85, Good O at Price 13.19, Good J at Price 17.97.
+TA - Confidence got a final utility of 14.190692565101685
+TA - Jumper won Good R at Price 11.36, Good P at Price 14.05, Good L at Price 17.44.
+TA - Jumper got a final utility of 9.25644762901409
+PW - Hot'n'Cold won Good C at Price 23.34, Good M at Price 18.27, Good Q at Price 11.50, Good F at Price 10.75, Good I at Price 17.53, Good H at Price 17.05, Good A at Price 7.48, Good D at Price 24.73, Good G at Price 32.44, Good N at Price 30.36, Good R at Price 11.36, Good E at Price 14.75, Good J at Price 17.97, Good L at Price 17.44.
+PW - Hot'n'Cold got a final utility of 115.42751937766144
+TA - RANDOM won Good M at Price 18.27.
+TA - RANDOM got a final utility of 1.4828057685486584
+TA - Truthful won Good K at Price 13.60, Good F at Price 10.75, Good Q at Price 11.50.
+TA - Truthful got a final utility of 11.366355114785534
+TA - SECRET got a final utility of 0
+
+Auction 28: TA - Confidence VS TA - Jumper VS PW - Hot'n'Cold VS TA - RANDOM (National) VS TA - Truthful VS TA - SECRET
+TA - Confidence won Good B at Price 12.78, Good E at Price 10.38, Good J at Price 19.60.
+TA - Confidence got a final utility of -0.3223679106114119
+TA - Jumper got a final utility of 0
+PW - Hot'n'Cold won Good C at Price 26.31, Good H at Price 28.22, Good I at Price 22.27, Good A at Price 21.75, Good D at Price 18.02, Good B at Price 12.78.
+PW - Hot'n'Cold got a final utility of 40.88527859973914
+TA - RANDOM won Good R at Price 7.50, Good L at Price 3.90.
+TA - RANDOM got a final utility of 0.1464518933252048
+TA - Truthful won Good F at Price 10.73, Good K at Price 10.93.
+TA - Truthful got a final utility of 1.7906056703348412
+TA - SECRET won Good M at Price 20.11, Good Q at Price 8.00, Good O at Price 22.03, Good P at Price 14.48, Good G at Price 20.13, Good N at Price 21.00.
+TA - SECRET got a final utility of 75.83747765502072
+
+Auction 29: TA - Confidence VS TA - Jumper VS PW - Hot'n'Cold VS TA - RANDOM VS TA - Truthful (National) VS TA - SECRET
+TA - Confidence won Good M at Price 4.89, Good O at Price 11.98, Good P at Price 11.89, Good G at Price 6.82, Good N at Price 10.64.
+TA - Confidence got a final utility of 55.4067294753624
+TA - Jumper won Good B at Price 15.15, Good H at Price 14.70, Good A at Price 9.27.
+TA - Jumper got a final utility of 34.096204655471055
+PW - Hot'n'Cold won Good Q at Price 12.40, Good K at Price 9.48, Good F at Price 6.70, Good R at Price 9.39, Good E at Price 24.07, Good J at Price 16.09, Good L at Price 16.28.
+PW - Hot'n'Cold got a final utility of 103.31488260475885
+TA - RANDOM won Good C at Price 13.64, Good D at Price 15.97, Good I at Price 17.98, Good K at Price 9.48.
+TA - RANDOM got a final utility of 27.529828173174153
+TA - Truthful won Good F at Price 6.70.
+TA - Truthful got a final utility of 0.06553973543583957
+TA - SECRET got a final utility of 0
+
+Auction 30: TA - Confidence VS TA - Jumper VS PW - Hot'n'Cold VS TA - RANDOM VS TA - Truthful VS TA - SECRET (National)
+TA - Confidence won Good B at Price 18.86, Good O at Price 6.65, Good J at Price 15.06.
+TA - Confidence got a final utility of -10.920304671355098
+TA - Jumper won Good C at Price 16.85, Good F at Price 8.21, Good I at Price 14.14, Good D at Price 11.53, Good E at Price 19.45.
+TA - Jumper got a final utility of 102.09465485536016
+PW - Hot'n'Cold won Good Q at Price 7.36, Good K at Price 13.83, Good P at Price 16.10, Good R at Price 8.37, Good L at Price 9.29.
+PW - Hot'n'Cold got a final utility of 94.77775013446383
+TA - RANDOM won Good M at Price 7.82, Good H at Price 14.39, Good A at Price 7.49, Good G at Price 6.98, Good N at Price 4.20.
+TA - RANDOM got a final utility of 90.3124374155355
+TA - Truthful got a final utility of 0
+TA - SECRET got a final utility of 0
+
+Auction 31: TA - Confidence (National) VS TA - SECRET VS PW - Hot'n'Cold VS TA - RANDOM VS TA - Truthful VS TA - Jumper
+TA - Confidence won Good Q at Price 7.70, Good P at Price 19.54, Good M at Price 5.40, Good K at Price 10.73.
+TA - Confidence got a final utility of -19.618601702683772
+TA - SECRET got a final utility of 0
+PW - Hot'n'Cold won Good C at Price 19.35, Good I at Price 21.29, Good H at Price 26.39, Good A at Price 18.95, Good D at Price 22.77, Good G at Price 26.61, Good B at Price 20.78, Good N at Price 22.07.
+PW - Hot'n'Cold got a final utility of 89.46622325444002
+TA - RANDOM won Good O at Price 9.43, Good J at Price 11.41.
+TA - RANDOM got a final utility of 1.6556907797519287
+TA - Truthful got a final utility of 0
+TA - Jumper won Good R at Price 10.12, Good F at Price 15.20, Good E at Price 13.96, Good L at Price 14.60.
+TA - Jumper got a final utility of 43.49149435440098
+
+Auction 32: TA - Confidence VS TA - SECRET (National) VS PW - Hot'n'Cold VS TA - RANDOM VS TA - Truthful VS TA - Jumper
+TA - Confidence won Good R at Price 13.32, Good J at Price 16.24.
+TA - Confidence got a final utility of 2.421540509644416
+TA - SECRET won Good F at Price 3.70.
+TA - SECRET got a final utility of 3.553050087890843
+PW - Hot'n'Cold won Good C at Price 21.11, Good Q at Price 29.67, Good O at Price 21.45, Good P at Price 22.99, Good I at Price 23.50, Good H at Price 23.01, Good D at Price 15.22, Good L at Price 28.15, Good E at Price 25.46, Good J at Price 16.24, Good K at Price 35.74.
+PW - Hot'n'Cold got a final utility of 83.31312981687091
+TA - RANDOM got a final utility of 0
+TA - Truthful won Good B at Price 17.58, Good M at Price 14.02, Good G at Price 17.98.
+TA - Truthful got a final utility of 15.56087151499419
+TA - Jumper won Good N at Price 15.97, Good A at Price 12.94.
+TA - Jumper got a final utility of 2.2128286155252894
+
+Auction 33: TA - Confidence VS TA - SECRET VS PW - Hot'n'Cold (National) VS TA - RANDOM VS TA - Truthful VS TA - Jumper
+TA - Confidence won Good M at Price 16.26, Good I at Price 31.23, Good G at Price 18.75, Good B at Price 19.61, Good N at Price 10.65.
+TA - Confidence got a final utility of -8.189838709236142
+TA - SECRET won Good D at Price 6.79, Good F at Price 10.89, Good E at Price 8.99.
+TA - SECRET got a final utility of 16.983516429098337
+PW - Hot'n'Cold won Good C at Price 18.31, Good Q at Price 13.60, Good O at Price 21.88, Good I at Price 31.23, Good H at Price 12.24, Good P at Price 22.98, Good D at Price 6.79, Good G at Price 18.75, Good B at Price 19.61, Good N at Price 10.65, Good R at Price 6.90, Good E at Price 8.99, Good J at Price 19.81, Good K at Price 29.08.
+PW - Hot'n'Cold got a final utility of 89.40679638898581
+TA - RANDOM won Good H at Price 12.24, Good A at Price 10.80.
+TA - RANDOM got a final utility of 6.613102448733887
+TA - Truthful got a final utility of 0
+TA - Jumper won Good C at Price 18.31, Good J at Price 19.81, Good L at Price 16.47.
+TA - Jumper got a final utility of 5.971269497605157
+
+Auction 34: TA - Confidence VS TA - SECRET VS PW - Hot'n'Cold VS TA - RANDOM (National) VS TA - Truthful VS TA - Jumper
+TA - Confidence won Good C at Price 7.90, Good N at Price 18.45, Good H at Price 14.84, Good J at Price 15.45.
+TA - Confidence got a final utility of 2.0637852991170647
+TA - SECRET won Good Q at Price 7.70, Good P at Price 15.96, Good L at Price 7.70, Good R at Price 7.70, Good K at Price 18.95.
+TA - SECRET got a final utility of 71.31337276885894
+PW - Hot'n'Cold won Good C at Price 7.90, Good O at Price 19.69, Good H at Price 14.84, Good I at Price 20.86, Good A at Price 8.00, Good D at Price 19.90, Good B at Price 18.74, Good E at Price 7.70, Good J at Price 15.45.
+PW - Hot'n'Cold got a final utility of 65.0481766093404
+TA - RANDOM won Good F at Price 7.60, Good G at Price 6.92.
+TA - RANDOM got a final utility of 0.06090973267577837
+TA - Truthful won Good M at Price 10.87, Good A at Price 8.00.
+TA - Truthful got a final utility of 1.5139893256794323
+TA - Jumper won Good O at Price 19.69.
+TA - Jumper got a final utility of 1.511061401315711
+
+Auction 35: TA - Confidence VS TA - SECRET VS PW - Hot'n'Cold VS TA - RANDOM VS TA - Truthful (National) VS TA - Jumper
+TA - Confidence got a final utility of 0
+TA - SECRET got a final utility of 0
+PW - Hot'n'Cold won Good C at Price 27.41, Good I at Price 18.15, Good H at Price 19.81, Good A at Price 25.05, Good D at Price 16.24, Good G at Price 27.34, Good B at Price 24.16, Good N at Price 19.39.
+PW - Hot'n'Cold got a final utility of 54.16218332646429
+TA - RANDOM won Good O at Price 17.10, Good H at Price 19.81, Good I at Price 18.15, Good D at Price 16.24, Good E at Price 8.70, Good J at Price 18.21.
+TA - RANDOM got a final utility of 141.57408104119386
+TA - Truthful won Good Q at Price 8.40, Good K at Price 4.40, Good F at Price 4.40, Good P at Price 6.50, Good R at Price 4.50, Good L at Price 6.90.
+TA - Truthful got a final utility of 2.455027740641299
+TA - Jumper won Good M at Price 19.54.
+TA - Jumper got a final utility of 1.5731286312663748
+
+Auction 36: TA - Confidence VS TA - SECRET VS PW - Hot'n'Cold VS TA - RANDOM VS TA - Truthful VS TA - Jumper (National)
+TA - Confidence won Good B at Price 14.63, Good H at Price 15.52, Good G at Price 16.19.
+TA - Confidence got a final utility of 8.580924385064357
+TA - SECRET won Good Q at Price 12.75, Good K at Price 46.04, Good F at Price 12.51, Good D at Price 16.94, Good E at Price 11.43, Good J at Price 20.90, Good L at Price 11.50.
+TA - SECRET got a final utility of 119.58734628111856
+PW - Hot'n'Cold won Good O at Price 8.67, Good P at Price 26.10, Good I at Price 18.04, Good D at Price 16.94, Good N at Price 17.72, Good R at Price 15.75.
+PW - Hot'n'Cold got a final utility of -5.309342031035925
+TA - RANDOM got a final utility of 0
+TA - Truthful won Good C at Price 12.64.
+TA - Truthful got a final utility of 1.0237019546671284
+TA - Jumper won Good M at Price 5.34, Good A at Price 6.31.
+TA - Jumper got a final utility of 0.08484973424939923
+
+Auction 37: TA - MinBidder (National) VS TA - Jumper VS TA - SECRET VS PW - Hot'n'Cold VS TA - Truthful VS TA - RANDOM
+TA - MinBidder got a final utility of 0
+TA - Jumper won Good O at Price 15.00.
+TA - Jumper got a final utility of 1.1463067385382146
+TA - SECRET won Good K at Price 27.49, Good F at Price 14.30, Good D at Price 17.98, Good R at Price 14.30, Good E at Price 24.92, Good L at Price 23.20.
+TA - SECRET got a final utility of 77.56668581547576
+PW - Hot'n'Cold won Good C at Price 24.81, Good M at Price 32.77, Good Q at Price 32.75, Good O at Price 15.00, Good P at Price 26.75, Good H at Price 31.02, Good I at Price 32.84, Good N at Price 14.20, Good J at Price 19.52.
+PW - Hot'n'Cold got a final utility of 56.43456328653659
+TA - Truthful won Good B at Price 13.60, Good G at Price 14.30, Good A at Price 14.30.
+TA - Truthful got a final utility of 31.200397749449337
+TA - RANDOM got a final utility of 0
+
+Auction 38: TA - MinBidder VS TA - Jumper (National) VS TA - SECRET VS PW - Hot'n'Cold VS TA - Truthful VS TA - RANDOM
+TA - MinBidder won Good B at Price 12.23.
+TA - MinBidder got a final utility of 1.571385637483008
+TA - Jumper got a final utility of 0
+TA - SECRET won Good C at Price 12.11, Good K at Price 32.60, Good O at Price 15.26, Good H at Price 20.49, Good I at Price 17.81, Good D at Price 13.42, Good E at Price 11.90, Good J at Price 15.15, Good L at Price 18.88.
+TA - SECRET got a final utility of 118.17612355806241
+PW - Hot'n'Cold won Good Q at Price 20.96, Good F at Price 16.54, Good P at Price 21.66, Good L at Price 18.88, Good R at Price 15.32, Good K at Price 32.60.
+PW - Hot'n'Cold got a final utility of 11.244566814829994
+TA - Truthful won Good N at Price 13.78.
+TA - Truthful got a final utility of 1.5859211154184099
+TA - RANDOM won Good A at Price 10.97, Good M at Price 13.81, Good G at Price 13.21.
+TA - RANDOM got a final utility of 24.788454126233667
+
+Auction 39: TA - MinBidder VS TA - Jumper VS TA - SECRET (National) VS PW - Hot'n'Cold VS TA - Truthful VS TA - RANDOM
+TA - MinBidder won Good R at Price 7.60, Good E at Price 12.64, Good O at Price 12.12, Good L at Price 8.88.
+TA - MinBidder got a final utility of 6.037083104842061
+TA - Jumper won Good N at Price 15.73, Good P at Price 13.21, Good H at Price 9.90, Good G at Price 13.58.
+TA - Jumper got a final utility of 26.341342581276265
+TA - SECRET got a final utility of 0
+PW - Hot'n'Cold won Good C at Price 24.11, Good Q at Price 11.58, Good K at Price 24.73, Good D at Price 22.89, Good E at Price 12.64, Good J at Price 18.72, Good L at Price 8.88.
+PW - Hot'n'Cold got a final utility of 36.87032309673614
+TA - Truthful won Good F at Price 14.32.
+TA - Truthful got a final utility of 5.219104573028174
+TA - RANDOM won Good B at Price 10.63, Good I at Price 13.81, Good M at Price 8.00, Good A at Price 8.00.
+TA - RANDOM got a final utility of 16.628459287950882
+
+Auction 40: TA - MinBidder VS TA - Jumper VS TA - SECRET VS PW - Hot'n'Cold (National) VS TA - Truthful VS TA - RANDOM
+TA - MinBidder won Good K at Price 11.31, Good Q at Price 19.18.
+TA - MinBidder got a final utility of 5.94945778510229
+TA - Jumper won Good C at Price 14.20, Good D at Price 19.56, Good B at Price 15.10, Good A at Price 12.70.
+TA - Jumper got a final utility of 49.52868386685048
+TA - SECRET won Good R at Price 17.00, Good E at Price 19.68, Good F at Price 25.87, Good L at Price 18.89.
+TA - SECRET got a final utility of 8.019744064356914
+PW - Hot'n'Cold won Good C at Price 14.20, Good M at Price 16.60, Good Q at Price 19.18, Good O at Price 17.90, Good I at Price 16.10, Good H at Price 32.61, Good A at Price 12.70, Good D at Price 19.56, Good G at Price 16.80, Good L at Price 18.89, Good B at Price 15.10, Good N at Price 16.80, Good R at Price 17.00, Good E at Price 19.68, Good J at Price 27.83, Good K at Price 11.31.
+PW - Hot'n'Cold got a final utility of 85.87456015253179
+TA - Truthful got a final utility of 0
+TA - RANDOM won Good P at Price 16.80, Good I at Price 16.10.
+TA - RANDOM got a final utility of 4.841980867616698
+
+Auction 41: TA - MinBidder VS TA - Jumper VS TA - SECRET VS PW - Hot'n'Cold VS TA - Truthful (National) VS TA - RANDOM
+TA - MinBidder won Good N at Price 13.37.
+TA - MinBidder got a final utility of 4.514250048656637
+TA - Jumper got a final utility of 0
+TA - SECRET won Good C at Price 14.12, Good F at Price 8.43, Good D at Price 17.53, Good B at Price 6.09, Good E at Price 27.69.
+TA - SECRET got a final utility of 6.700650377601477
+PW - Hot'n'Cold won Good Q at Price 23.45, Good K at Price 32.46, Good O at Price 27.41, Good P at Price 22.54, Good R at Price 16.54, Good E at Price 27.69, Good J at Price 14.97, Good L at Price 21.29.
+PW - Hot'n'Cold got a final utility of 54.952357990222794
+TA - Truthful won Good G at Price 5.60, Good A at Price 5.50.
+TA - Truthful got a final utility of 0.08012955124290677
+TA - RANDOM won Good H at Price 13.40, Good M at Price 9.60, Good I at Price 16.74, Good J at Price 14.97.
+TA - RANDOM got a final utility of 34.07701698961522
+
+Auction 42: TA - MinBidder VS TA - Jumper VS TA - SECRET VS PW - Hot'n'Cold VS TA - Truthful VS TA - RANDOM (National)
+TA - MinBidder won Good C at Price 9.90, Good M at Price 9.90, Good A at Price 9.90.
+TA - MinBidder got a final utility of 29.43096061376365
+TA - Jumper got a final utility of 0
+TA - SECRET won Good Q at Price 18.44, Good K at Price 12.05, Good F at Price 9.90, Good R at Price 17.71, Good E at Price 11.50, Good L at Price 14.78.
+TA - SECRET got a final utility of 70.80208458123079
+PW - Hot'n'Cold won Good O at Price 19.80, Good I at Price 20.34, Good H at Price 22.84, Good P at Price 26.23, Good G at Price 14.23, Good B at Price 21.49, Good N at Price 28.44.
+PW - Hot'n'Cold got a final utility of 57.103071930348875
+TA - Truthful won Good J at Price 9.90.
+TA - Truthful got a final utility of 9.445684717258732
+TA - RANDOM won Good D at Price 6.80.
+TA - RANDOM got a final utility of 0.008446353659446793
+Extended Results: 
+            Agent 1          Agent 2  ...   A5 Score  A6 Score
+0  PW - Hot'n'Cold  TA - Confidence  ...  46.931347  1.577750
+1  PW - Hot'n'Cold  TA - Confidence  ...  17.686883  3.579047
+2  PW - Hot'n'Cold      TA - Jumper  ...  28.572434  7.935308
+
+[3 rows x 12 columns]
