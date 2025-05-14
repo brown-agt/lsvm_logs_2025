@@ -1,0 +1,889 @@
+
+Auction 1: Simple (National) VS TA - SECRET VS shroobinator(1) VS TA - Truthful VS M_Agent2 VS TA - Jumper
+Simple won Good G at Price 16.41.
+Simple got a final utility of -8.039999913474631
+TA - SECRET won Good E at Price 15.26, Good K at Price 16.44, Good F at Price 16.09, Good R at Price 16.54, Good L at Price 16.29.
+TA - SECRET got a final utility of 58.705679708103915
+shroobinator(1) won Good J at Price 33.48, Good N at Price 17.56, Good P at Price 13.59, Good C at Price 21.00, Good I at Price 30.35, Good Q at Price 31.96, Good M at Price 7.59, Good H at Price 20.01, Good O at Price 19.17.
+shroobinator(1) got a final utility of 49.02907019560445
+TA - Truthful got a final utility of 0
+M_Agent2 won Good A at Price 15.88, Good B at Price 18.97, Good D at Price 19.67.
+M_Agent2 got a final utility of -15.4126478134107
+TA - Jumper got a final utility of 0
+
+Auction 2: Simple VS TA - SECRET (National) VS shroobinator(1) VS TA - Truthful VS M_Agent2 VS TA - Jumper
+Simple won Good J at Price 52.30, Good C at Price 46.39, Good A at Price 29.33, Good B at Price 31.07, Good I at Price 38.99, Good D at Price 37.68, Good G at Price 31.20.
+Simple got a final utility of -139.69767670268885
+TA - SECRET won Good R at Price 1.70.
+TA - SECRET got a final utility of 1.708486005145757
+shroobinator(1) won Good P at Price 25.12, Good E at Price 8.17, Good K at Price 24.25, Good Q at Price 16.05, Good L at Price 18.92, Good O at Price 31.76.
+shroobinator(1) got a final utility of 43.229086588650645
+TA - Truthful got a final utility of 0
+M_Agent2 won Good M at Price 20.29, Good H at Price 35.04, Good N at Price 27.85.
+M_Agent2 got a final utility of -17.750674257972918
+TA - Jumper won Good F at Price 12.68.
+TA - Jumper got a final utility of 1.0167980478533654
+
+Auction 3: Simple VS TA - SECRET VS shroobinator(1) (National) VS TA - Truthful VS M_Agent2 VS TA - Jumper
+Simple won Good J at Price 54.84, Good N at Price 26.28, Good C at Price 26.63, Good I at Price 49.03, Good K at Price 46.01, Good H at Price 50.04.
+Simple got a final utility of -108.00529457710192
+TA - SECRET got a final utility of 0
+shroobinator(1) won Good P at Price 24.65, Good E at Price 17.94, Good A at Price 12.31, Good B at Price 15.62, Good D at Price 17.99, Good F at Price 9.57, Good R at Price 14.57, Good G at Price 14.94, Good Q at Price 32.50, Good M at Price 8.41, Good O at Price 39.80.
+shroobinator(1) got a final utility of -150.56157681968813
+TA - Truthful got a final utility of 0
+M_Agent2 got a final utility of 0
+TA - Jumper won Good L at Price 17.38.
+TA - Jumper got a final utility of 1.4187108609902133
+
+Auction 4: Simple VS TA - SECRET VS shroobinator(1) VS TA - Truthful (National) VS M_Agent2 VS TA - Jumper
+Simple won Good J at Price 40.73, Good P at Price 21.90, Good E at Price 40.11, Good I at Price 23.27, Good K at Price 28.02, Good F at Price 22.16, Good Q at Price 26.72.
+Simple got a final utility of 33.479535568903714
+TA - SECRET won Good H at Price 26.50, Good D at Price 30.87, Good O at Price 24.86.
+TA - SECRET got a final utility of -45.60817942014785
+shroobinator(1) won Good N at Price 15.42, Good C at Price 29.85, Good A at Price 18.35, Good B at Price 18.41, Good G at Price 29.53, Good M at Price 24.02.
+shroobinator(1) got a final utility of 20.61145818405052
+TA - Truthful won Good R at Price 7.80.
+TA - Truthful got a final utility of 0.0041737654532783
+M_Agent2 got a final utility of 0
+TA - Jumper won Good L at Price 18.84.
+TA - Jumper got a final utility of 1.4786046756168822
+
+Auction 5: Simple VS TA - SECRET VS shroobinator(1) VS TA - Truthful VS M_Agent2 (National) VS TA - Jumper
+Simple won Good N at Price 23.62, Good B at Price 20.23, Good I at Price 19.82, Good G at Price 33.35, Good M at Price 20.99, Good H at Price 26.93, Good O at Price 25.61.
+Simple got a final utility of 37.97888005956014
+TA - SECRET won Good A at Price 14.86.
+TA - SECRET got a final utility of 3.7180000325465326
+shroobinator(1) won Good C at Price 36.78, Good K at Price 4.21, Good F at Price 9.74, Good D at Price 21.47, Good Q at Price 8.80, Good R at Price 10.38, Good L at Price 4.14.
+shroobinator(1) got a final utility of 54.83035761116092
+TA - Truthful won Good P at Price 17.66.
+TA - Truthful got a final utility of 1.3440058648997422
+M_Agent2 got a final utility of 0
+TA - Jumper won Good E at Price 17.49, Good J at Price 11.33.
+TA - Jumper got a final utility of 2.3272067884599075
+
+Auction 6: Simple VS TA - SECRET VS shroobinator(1) VS TA - Truthful VS M_Agent2 VS TA - Jumper (National)
+Simple won Good A at Price 16.14, Good C at Price 19.16.
+Simple got a final utility of -25.545421833047694
+TA - SECRET got a final utility of 0
+shroobinator(1) won Good J at Price 32.45, Good P at Price 31.81, Good I at Price 28.66, Good K at Price 20.80, Good D at Price 7.27, Good Q at Price 22.35, Good R at Price 25.11, Good O at Price 37.27.
+shroobinator(1) got a final utility of 120.24352852357441
+TA - Truthful won Good E at Price 16.21, Good L at Price 18.83.
+TA - Truthful got a final utility of 4.617771815120861
+M_Agent2 won Good N at Price 23.29, Good B at Price 19.24, Good G at Price 18.33, Good M at Price 20.44, Good H at Price 21.09.
+M_Agent2 got a final utility of 35.135838414283455
+TA - Jumper won Good F at Price 7.20.
+TA - Jumper got a final utility of 0.07447539139501647
+
+Auction 7: Simple (National) VS TA - SECRET VS singleton VS M_Agent2 VS TA - Confidence VS TA - MinBidder
+Simple won Good J at Price 31.24, Good N at Price 14.10, Good P at Price 25.49, Good C at Price 16.69, Good E at Price 36.56, Good I at Price 22.20, Good K at Price 39.27, Good D at Price 35.00, Good F at Price 42.71, Good Q at Price 30.91, Good G at Price 14.10, Good R at Price 37.98, Good L at Price 30.83, Good M at Price 14.10, Good H at Price 22.50, Good O at Price 24.08.
+Simple got a final utility of -25.465515383519914
+TA - SECRET got a final utility of 0
+singleton got a final utility of 0
+M_Agent2 got a final utility of 0
+TA - Confidence got a final utility of 0
+TA - MinBidder won Good A at Price 14.10, Good B at Price 14.10.
+TA - MinBidder got a final utility of 14.643502475389823
+
+Auction 8: Simple VS TA - SECRET (National) VS singleton VS M_Agent2 VS TA - Confidence VS TA - MinBidder
+Simple won Good N at Price 31.87, Good A at Price 16.12, Good B at Price 25.33, Good G at Price 19.30, Good M at Price 18.61, Good H at Price 28.79, Good O at Price 35.10.
+Simple got a final utility of 33.56511119278642
+TA - SECRET got a final utility of 0
+singleton won Good C at Price 20.06.
+singleton got a final utility of 1.4146954374742648
+M_Agent2 won Good P at Price 29.89, Good E at Price 15.93, Good K at Price 39.86, Good D at Price 15.93, Good Q at Price 32.48, Good L at Price 18.32.
+M_Agent2 got a final utility of 24.246821952336063
+TA - Confidence won Good J at Price 17.23, Good I at Price 22.76.
+TA - Confidence got a final utility of -3.4537727612543563
+TA - MinBidder won Good R at Price 7.94, Good F at Price 10.77.
+TA - MinBidder got a final utility of 1.5488103071898252
+
+Auction 9: Simple VS TA - SECRET VS singleton (National) VS M_Agent2 VS TA - Confidence VS TA - MinBidder
+Simple won Good N at Price 18.29, Good C at Price 14.53, Good A at Price 14.91, Good B at Price 15.58, Good I at Price 32.46, Good H at Price 28.11, Good O at Price 14.17.
+Simple got a final utility of 55.4744099324044
+TA - SECRET won Good M at Price 13.03, Good G at Price 15.21.
+TA - SECRET got a final utility of 1.1240415594558293
+singleton got a final utility of 0
+M_Agent2 won Good J at Price 31.04, Good P at Price 18.01, Good K at Price 38.75, Good D at Price 24.55, Good Q at Price 36.96, Good L at Price 31.65.
+M_Agent2 got a final utility of 39.9618591385624
+TA - Confidence got a final utility of 0
+TA - MinBidder won Good E at Price 17.63, Good R at Price 12.58, Good F at Price 11.54.
+TA - MinBidder got a final utility of 14.095461057990349
+
+Auction 10: Simple VS TA - SECRET VS singleton VS M_Agent2 (National) VS TA - Confidence VS TA - MinBidder
+Simple won Good N at Price 26.00, Good A at Price 14.22, Good B at Price 20.23, Good I at Price 12.51, Good G at Price 18.94, Good M at Price 25.98, Good H at Price 19.23.
+Simple got a final utility of 9.01691366453224
+TA - SECRET got a final utility of 0
+singleton won Good J at Price 12.46, Good E at Price 11.14, Good K at Price 18.76, Good D at Price 12.30, Good F at Price 10.71, Good Q at Price 5.47, Good R at Price 13.15, Good L at Price 14.14.
+singleton got a final utility of 97.11695229270049
+M_Agent2 got a final utility of 0
+TA - Confidence won Good O at Price 17.15.
+TA - Confidence got a final utility of 2.300966129298832
+TA - MinBidder won Good P at Price 14.09, Good C at Price 11.40.
+TA - MinBidder got a final utility of 9.932337756971357
+
+Auction 11: Simple VS TA - SECRET VS singleton VS M_Agent2 VS TA - Confidence (National) VS TA - MinBidder
+Simple won Good N at Price 23.26, Good B at Price 27.06, Good G at Price 26.24, Good M at Price 24.74, Good H at Price 40.56, Good O at Price 43.09.
+Simple got a final utility of -59.43181826701753
+TA - SECRET got a final utility of 0
+singleton won Good J at Price 22.57, Good P at Price 28.14, Good C at Price 35.50, Good E at Price 16.67, Good I at Price 30.11, Good K at Price 16.06, Good F at Price 13.25, Good D at Price 13.04, Good Q at Price 17.16, Good R at Price 6.18, Good L at Price 15.20.
+singleton got a final utility of 143.5787056932681
+M_Agent2 got a final utility of 0
+TA - Confidence won Good A at Price 5.38.
+TA - Confidence got a final utility of 0.04996292498196464
+TA - MinBidder got a final utility of 0
+
+Auction 12: Simple VS TA - SECRET VS singleton VS M_Agent2 VS TA - Confidence VS TA - MinBidder (National)
+Simple won Good N at Price 13.32, Good G at Price 21.61, Good M at Price 14.34, Good H at Price 12.75, Good O at Price 13.73.
+Simple got a final utility of 57.792176275757114
+TA - SECRET got a final utility of 0
+singleton won Good J at Price 12.84, Good C at Price 14.10, Good E at Price 6.77, Good A at Price 18.79, Good B at Price 16.75, Good I at Price 35.37, Good D at Price 6.48.
+singleton got a final utility of 99.39989372896123
+M_Agent2 won Good P at Price 21.34, Good K at Price 13.67, Good F at Price 7.10, Good R at Price 7.10, Good Q at Price 7.10, Good L at Price 7.10.
+M_Agent2 got a final utility of 153.17484124538873
+TA - Confidence got a final utility of 0
+TA - MinBidder got a final utility of 0
+
+Auction 13: Simple (National) VS shroobinator VS ########!!!!!!!!!########2 VS TA - Jumper VS Friendly Agent VS A&E_updated
+Simple won Good R at Price 14.10, Good F at Price 14.10.
+Simple got a final utility of -14.502351450700994
+shroobinator won Good M at Price 8.12.
+shroobinator got a final utility of 9.872530078747856
+########!!!!!!!!!########2 won Good J at Price 16.50, Good O at Price 16.49.
+########!!!!!!!!!########2 got a final utility of -15.08605879456826
+TA - Jumper got a final utility of 0
+Friendly Agent won Good P at Price 19.69, Good E at Price 7.12, Good K at Price 16.43, Good D at Price 14.70, Good Q at Price 19.13, Good L at Price 8.87, Good H at Price 19.60.
+Friendly Agent got a final utility of 109.65250539957502
+A&E_updated won Good N at Price 21.75, Good C at Price 23.07, Good A at Price 13.00, Good B at Price 15.05, Good I at Price 16.96, Good G at Price 9.46.
+A&E_updated got a final utility of 46.03186647116216
+
+Auction 14: Simple VS shroobinator (National) VS ########!!!!!!!!!########2 VS TA - Jumper VS Friendly Agent VS A&E_updated
+Simple won Good R at Price 14.60, Good L at Price 15.93, Good K at Price 22.55, Good F at Price 17.24.
+Simple got a final utility of 17.79848488200301
+shroobinator won Good M at Price 0.20, Good N at Price 0.10, Good Q at Price 17.75, Good G at Price 0.60.
+shroobinator got a final utility of 3.054561869031261
+########!!!!!!!!!########2 got a final utility of 0
+TA - Jumper won Good P at Price 16.84.
+TA - Jumper got a final utility of 2.8422539236660214
+Friendly Agent won Good E at Price 31.81, Good H at Price 20.00, Good C at Price 20.54.
+Friendly Agent got a final utility of -26.83877349330308
+A&E_updated won Good J at Price 17.19, Good A at Price 12.80, Good B at Price 12.80, Good I at Price 20.84, Good D at Price 24.13, Good O at Price 19.92.
+A&E_updated got a final utility of 24.504175933840315
+
+Auction 15: Simple VS shroobinator VS ########!!!!!!!!!########2 (National) VS TA - Jumper VS Friendly Agent VS A&E_updated
+Simple won Good J at Price 24.99, Good P at Price 14.96, Good K at Price 31.03, Good R at Price 12.15, Good Q at Price 15.28, Good L at Price 13.56, Good O at Price 16.68.
+Simple got a final utility of 100.76892633126266
+shroobinator won Good N at Price 8.60, Good I at Price 16.92.
+shroobinator got a final utility of 1.509802204200767
+########!!!!!!!!!########2 got a final utility of 0
+TA - Jumper got a final utility of 0
+Friendly Agent won Good E at Price 19.74, Good F at Price 18.22, Good D at Price 8.35.
+Friendly Agent got a final utility of -11.750737477149826
+A&E_updated won Good C at Price 14.76, Good A at Price 4.40, Good B at Price 9.90, Good G at Price 9.70, Good M at Price 9.80, Good H at Price 11.76.
+A&E_updated got a final utility of 126.75662465512396
+
+Auction 16: Simple VS shroobinator VS ########!!!!!!!!!########2 VS TA - Jumper (National) VS Friendly Agent VS A&E_updated
+Simple won Good K at Price 37.67.
+Simple got a final utility of -30.818760851909317
+shroobinator won Good P at Price 15.03, Good R at Price 25.93.
+shroobinator got a final utility of -9.258639287235766
+########!!!!!!!!!########2 got a final utility of 0
+TA - Jumper got a final utility of 0
+Friendly Agent won Good J at Price 40.74, Good N at Price 19.62, Good C at Price 32.14, Good A at Price 25.82, Good B at Price 8.03, Good I at Price 8.62, Good G at Price 29.69, Good M at Price 13.60, Good H at Price 27.93, Good O at Price 28.90.
+Friendly Agent got a final utility of 116.52514619903931
+A&E_updated won Good E at Price 38.38, Good D at Price 21.68, Good F at Price 30.41, Good Q at Price 35.60, Good L at Price 36.13.
+A&E_updated got a final utility of -47.236524960141566
+
+Auction 17: Simple VS shroobinator VS ########!!!!!!!!!########2 VS TA - Jumper VS Friendly Agent (National) VS A&E_updated
+Simple won Good A at Price 40.34, Good B at Price 45.53, Good H at Price 41.71, Good G at Price 47.27.
+Simple got a final utility of -94.91151254011999
+shroobinator got a final utility of 0
+########!!!!!!!!!########2 got a final utility of 0
+TA - Jumper got a final utility of 0
+Friendly Agent won Good M at Price 27.41, Good N at Price 36.55, Good R at Price 0.10, Good F at Price 15.28.
+Friendly Agent got a final utility of -56.14852291210827
+A&E_updated won Good J at Price 40.33, Good P at Price 28.38, Good C at Price 31.01, Good E at Price 33.62, Good I at Price 53.65, Good K at Price 32.77, Good D at Price 25.09, Good Q at Price 26.20, Good L at Price 21.48, Good O at Price 35.73.
+A&E_updated got a final utility of -18.172903763665943
+
+Auction 18: Simple VS shroobinator VS ########!!!!!!!!!########2 VS TA - Jumper VS Friendly Agent VS A&E_updated (National)
+Simple won Good E at Price 14.53, Good L at Price 18.29, Good F at Price 18.85, Good D at Price 10.60.
+Simple got a final utility of 20.010671395933144
+shroobinator won Good A at Price 18.90.
+shroobinator got a final utility of 2.3514842258231425
+########!!!!!!!!!########2 won Good H at Price 18.74, Good I at Price 6.30.
+########!!!!!!!!!########2 got a final utility of -4.924407330624039
+TA - Jumper won Good M at Price 18.30.
+TA - Jumper got a final utility of 2.5126515169009735
+Friendly Agent won Good R at Price 10.20, Good K at Price 22.46, Good Q at Price 8.04.
+Friendly Agent got a final utility of 0.7441338108068223
+A&E_updated won Good J at Price 22.34, Good N at Price 25.02, Good P at Price 6.29, Good C at Price 13.60, Good B at Price 13.50, Good G at Price 19.29, Good O at Price 21.92.
+A&E_updated got a final utility of -84.0289327610574
+
+Auction 19: Friendly Agent (National) VS TA - SECRET VS singleton(1) VS shroobinator(1) VS A&E_updated VS TA - Confidence
+Friendly Agent won Good N at Price 20.80, Good P at Price 19.68, Good C at Price 27.96, Good E at Price 16.30, Good K at Price 0.79, Good R at Price 0.87, Good Q at Price 28.64, Good G at Price 15.41, Good L at Price 0.61, Good M at Price 15.85.
+Friendly Agent got a final utility of -78.00192579226564
+TA - SECRET got a final utility of 0
+singleton(1) got a final utility of 0
+shroobinator(1) won Good F at Price 16.77.
+shroobinator(1) got a final utility of 3.100545048453675
+A&E_updated won Good J at Price 21.44, Good A at Price 16.85, Good B at Price 16.55, Good I at Price 35.82, Good D at Price 16.57, Good H at Price 33.37, Good O at Price 27.46.
+A&E_updated got a final utility of -7.705541764342087
+TA - Confidence got a final utility of 0
+
+Auction 20: Friendly Agent VS TA - SECRET (National) VS singleton(1) VS shroobinator(1) VS A&E_updated VS TA - Confidence
+Friendly Agent got a final utility of 0
+TA - SECRET got a final utility of 0
+singleton(1) won Good J at Price 19.37, Good N at Price 18.00, Good E at Price 7.80, Good B at Price 18.64, Good I at Price 11.99, Good D at Price 3.30, Good O at Price 19.17.
+singleton(1) got a final utility of 71.19953815165506
+shroobinator(1) won Good P at Price 18.54, Good K at Price 11.30, Good F at Price 7.23, Good Q at Price 26.14, Good R at Price 7.21, Good L at Price 8.47.
+shroobinator(1) got a final utility of 83.08375999961932
+A&E_updated won Good C at Price 27.63, Good A at Price 19.12, Good G at Price 20.87, Good M at Price 29.38, Good H at Price 30.80.
+A&E_updated got a final utility of -5.127472466213092
+TA - Confidence got a final utility of 0
+
+Auction 21: Friendly Agent VS TA - SECRET VS singleton(1) (National) VS shroobinator(1) VS A&E_updated VS TA - Confidence
+Friendly Agent won Good Q at Price 14.21, Good R at Price 23.57, Good F at Price 18.62, Good L at Price 11.97.
+Friendly Agent got a final utility of 22.1611162587852
+TA - SECRET won Good E at Price 13.80, Good C at Price 9.82.
+TA - SECRET got a final utility of -4.077105354582013
+singleton(1) won Good A at Price 0.20.
+singleton(1) got a final utility of 5.924429844344426
+shroobinator(1) got a final utility of 0
+A&E_updated won Good J at Price 10.02, Good N at Price 8.60, Good P at Price 22.55, Good I at Price 6.65, Good K at Price 20.15, Good D at Price 17.67, Good O at Price 6.39.
+A&E_updated got a final utility of 71.0199780610002
+TA - Confidence won Good M at Price 14.91, Good H at Price 5.74, Good B at Price 8.16, Good G at Price 6.00.
+TA - Confidence got a final utility of 21.31433721969197
+
+Auction 22: Friendly Agent VS TA - SECRET VS singleton(1) VS shroobinator(1) (National) VS A&E_updated VS TA - Confidence
+Friendly Agent got a final utility of 0
+TA - SECRET got a final utility of 0
+singleton(1) won Good Q at Price 16.65.
+singleton(1) got a final utility of 1.9970643423379038
+shroobinator(1) won Good N at Price 6.39, Good P at Price 9.34, Good C at Price 16.20, Good A at Price 15.95, Good B at Price 16.13, Good F at Price 30.15, Good G at Price 16.12, Good L at Price 30.32, Good M at Price 16.14, Good H at Price 15.95, Good O at Price 3.00.
+shroobinator(1) got a final utility of -63.52974446241157
+A&E_updated won Good E at Price 27.05, Good R at Price 21.31, Good K at Price 69.42, Good D at Price 21.24.
+A&E_updated got a final utility of -74.30123258952874
+TA - Confidence won Good J at Price 79.40, Good I at Price 81.88.
+TA - Confidence got a final utility of -127.04826345181881
+
+Auction 23: Friendly Agent VS TA - SECRET VS singleton(1) VS shroobinator(1) VS A&E_updated (National) VS TA - Confidence
+Friendly Agent won Good M at Price 7.18, Good A at Price 16.77, Good B at Price 24.22, Good C at Price 17.73.
+Friendly Agent got a final utility of -13.02712199398082
+TA - SECRET got a final utility of 0
+singleton(1) won Good P at Price 10.40.
+singleton(1) got a final utility of 7.528068173441413
+shroobinator(1) won Good E at Price 10.40, Good F at Price 18.31, Good R at Price 12.79, Good Q at Price 17.92, Good L at Price 21.31.
+shroobinator(1) got a final utility of 10.996915942561614
+A&E_updated won Good J at Price 27.01, Good N at Price 5.74, Good I at Price 16.78, Good K at Price 21.22, Good D at Price 5.70, Good G at Price 14.00, Good H at Price 23.42, Good O at Price 27.14.
+A&E_updated got a final utility of -74.85086835754475
+TA - Confidence got a final utility of 0
+
+Auction 24: Friendly Agent VS TA - SECRET VS singleton(1) VS shroobinator(1) VS A&E_updated VS TA - Confidence (National)
+Friendly Agent won Good P at Price 26.65, Good C at Price 34.84, Good I at Price 41.11, Good K at Price 29.46, Good D at Price 30.54, Good H at Price 27.47, Good O at Price 14.66.
+Friendly Agent got a final utility of 16.325854634303795
+TA - SECRET got a final utility of 0
+singleton(1) won Good A at Price 8.42, Good B at Price 9.07, Good G at Price 4.74.
+singleton(1) got a final utility of -9.394286307016904
+shroobinator(1) won Good N at Price 21.41.
+shroobinator(1) got a final utility of -6.156170555302191
+A&E_updated won Good J at Price 31.32, Good E at Price 14.37, Good F at Price 19.66, Good Q at Price 39.18, Good L at Price 23.52.
+A&E_updated got a final utility of -61.99166912861429
+TA - Confidence won Good M at Price 15.14, Good R at Price 6.00.
+TA - Confidence got a final utility of -7.671205121557676
+
+Auction 25: singleton (National) VS ########!!!!!!!!!########2 VS shroobinator(1) VS TA - RANDOM VS CJM2 VS Simple
+singleton won Good A at Price 2.00.
+singleton got a final utility of 4.742064321024081
+########!!!!!!!!!########2 won Good N at Price 7.10, Good P at Price 20.34, Good C at Price 18.77, Good B at Price 4.30, Good G at Price 5.80, Good M at Price 2.00, Good H at Price 16.07, Good O at Price 13.51.
+########!!!!!!!!!########2 got a final utility of 133.3993987469465
+shroobinator(1) got a final utility of 0
+TA - RANDOM got a final utility of 0
+CJM2 got a final utility of 0
+Simple won Good J at Price 45.56, Good E at Price 32.01, Good I at Price 35.67, Good K at Price 51.74, Good D at Price 33.08, Good F at Price 23.71, Good Q at Price 25.91, Good R at Price 27.41, Good L at Price 40.91.
+Simple got a final utility of -50.92645785331615
+
+Auction 26: singleton VS ########!!!!!!!!!########2 (National) VS shroobinator(1) VS TA - RANDOM VS CJM2 VS Simple
+singleton got a final utility of 0
+########!!!!!!!!!########2 won Good R at Price 2.62, Good L at Price 1.56.
+########!!!!!!!!!########2 got a final utility of 11.80624085864628
+shroobinator(1) won Good J at Price 21.79, Good P at Price 20.32, Good C at Price 24.79, Good E at Price 15.67, Good K at Price 17.93, Good D at Price 18.35, Good F at Price 12.90.
+shroobinator(1) got a final utility of 133.69476602601526
+TA - RANDOM got a final utility of 0
+CJM2 got a final utility of 0
+Simple won Good N at Price 18.93, Good A at Price 20.87, Good B at Price 22.49, Good I at Price 21.77, Good Q at Price 13.52, Good G at Price 21.04, Good M at Price 24.35, Good H at Price 25.53, Good O at Price 28.01.
+Simple got a final utility of -8.835584533716798
+
+Auction 27: singleton VS ########!!!!!!!!!########2 VS shroobinator(1) (National) VS TA - RANDOM VS CJM2 VS Simple
+singleton got a final utility of 0
+########!!!!!!!!!########2 won Good K at Price 21.30, Good L at Price 23.30.
+########!!!!!!!!!########2 got a final utility of -5.4757585484079385
+shroobinator(1) won Good J at Price 19.71, Good N at Price 21.23, Good P at Price 15.29, Good C at Price 14.69, Good E at Price 11.50, Good I at Price 17.42, Good D at Price 20.28, Good F at Price 21.40, Good R at Price 14.40, Good Q at Price 15.60, Good H at Price 24.50, Good O at Price 15.02.
+shroobinator(1) got a final utility of 79.23804560201185
+TA - RANDOM got a final utility of 0
+CJM2 got a final utility of 0
+Simple won Good M at Price 25.81, Good A at Price 37.68, Good B at Price 26.95, Good G at Price 34.28.
+Simple got a final utility of -48.34152565855952
+
+Auction 28: singleton VS ########!!!!!!!!!########2 VS shroobinator(1) VS TA - RANDOM (National) VS CJM2 VS Simple
+singleton got a final utility of 0
+########!!!!!!!!!########2 won Good J at Price 19.50, Good N at Price 32.28, Good P at Price 14.39, Good I at Price 15.82, Good M at Price 5.00, Good O at Price 12.02.
+########!!!!!!!!!########2 got a final utility of 72.63211388473137
+shroobinator(1) got a final utility of 0
+TA - RANDOM got a final utility of 0
+CJM2 won Good C at Price 8.42, Good A at Price 16.59, Good B at Price 24.73, Good D at Price 22.54, Good G at Price 19.72, Good H at Price 6.50.
+CJM2 got a final utility of 87.21320282187364
+Simple won Good E at Price 16.76, Good K at Price 17.61, Good F at Price 14.86, Good R at Price 20.17, Good Q at Price 21.63, Good L at Price 17.87.
+Simple got a final utility of 67.96047110944659
+
+Auction 29: singleton VS ########!!!!!!!!!########2 VS shroobinator(1) VS TA - RANDOM VS CJM2 (National) VS Simple
+singleton won Good J at Price 16.62, Good N at Price 25.85, Good P at Price 17.65, Good E at Price 14.00, Good I at Price 15.63, Good D at Price 9.58, Good R at Price 3.60, Good Q at Price 10.05, Good H at Price 30.80, Good O at Price 21.37.
+singleton got a final utility of 92.49676399145903
+########!!!!!!!!!########2 got a final utility of 0
+shroobinator(1) got a final utility of 0
+TA - RANDOM won Good K at Price 18.60, Good L at Price 13.40.
+TA - RANDOM got a final utility of 6.303513319714561
+CJM2 won Good F at Price 1.40.
+CJM2 got a final utility of 2.9348595831653466
+Simple won Good C at Price 28.48, Good A at Price 28.50, Good B at Price 32.99, Good G at Price 31.90, Good M at Price 29.14.
+Simple got a final utility of -51.572487512857506
+
+Auction 30: singleton VS ########!!!!!!!!!########2 VS shroobinator(1) VS TA - RANDOM VS CJM2 VS Simple (National)
+singleton got a final utility of 0
+########!!!!!!!!!########2 won Good N at Price 18.74, Good A at Price 15.02, Good B at Price 22.87, Good G at Price 14.38, Good M at Price 10.62, Good H at Price 20.74.
+########!!!!!!!!!########2 got a final utility of 89.92481333189778
+shroobinator(1) got a final utility of 0
+TA - RANDOM won Good J at Price 18.64.
+TA - RANDOM got a final utility of 1.5389359419042883
+CJM2 won Good P at Price 6.01, Good C at Price 19.24, Good E at Price 15.06, Good I at Price 18.67, Good K at Price 12.71, Good D at Price 16.44, Good Q at Price 6.52, Good O at Price 11.77.
+CJM2 got a final utility of 86.43688681099086
+Simple won Good R at Price 18.55, Good L at Price 19.45, Good F at Price 17.10.
+Simple got a final utility of -33.971274763025306
+
+Auction 31: shroobinator (National) VS Simple VS A&E VS CJM2 VS Friendly Agent VS ########!!!!!!!!!########2
+shroobinator won Good N at Price 6.10, Good C at Price 10.10, Good E at Price 13.90, Good A at Price 0.00, Good G at Price 0.50, Good M at Price 1.10, Good O at Price 10.60.
+shroobinator got a final utility of 7.48382323018285
+Simple got a final utility of 0
+A&E won Good P at Price 11.50, Good K at Price 16.17, Good F at Price 14.32, Good Q at Price 13.33, Good R at Price 14.68, Good L at Price 14.75.
+A&E got a final utility of 64.16766665927867
+CJM2 got a final utility of 0
+Friendly Agent won Good J at Price 21.23, Good D at Price 15.00.
+Friendly Agent got a final utility of -10.615523699586412
+########!!!!!!!!!########2 won Good H at Price 10.20, Good A at Price 0.00, Good B at Price 10.20, Good I at Price 15.16.
+########!!!!!!!!!########2 got a final utility of 48.42920675575357
+
+Auction 32: shroobinator VS Simple (National) VS A&E VS CJM2 VS Friendly Agent VS ########!!!!!!!!!########2
+shroobinator got a final utility of 0
+Simple got a final utility of 0
+A&E won Good N at Price 21.44, Good A at Price 20.62, Good G at Price 20.56, Good M at Price 19.64, Good H at Price 22.02, Good O at Price 23.37.
+A&E got a final utility of 21.260201148179362
+CJM2 won Good E at Price 13.21, Good B at Price 8.30, Good D at Price 10.35.
+CJM2 got a final utility of 2.5306186109953863
+Friendly Agent won Good R at Price 7.94, Good P at Price 9.06, Good Q at Price 7.66, Good F at Price 8.40.
+Friendly Agent got a final utility of 30.53537219187735
+########!!!!!!!!!########2 won Good J at Price 17.48, Good C at Price 20.83, Good I at Price 21.52, Good K at Price 10.95, Good L at Price 8.24.
+########!!!!!!!!!########2 got a final utility of 28.048459350657765
+
+Auction 33: shroobinator VS Simple VS A&E (National) VS CJM2 VS Friendly Agent VS ########!!!!!!!!!########2
+shroobinator won Good P at Price 17.44, Good I at Price 24.80, Good Q at Price 22.20, Good M at Price 16.80, Good H at Price 21.78.
+shroobinator got a final utility of -30.793602128553303
+Simple won Good D at Price 22.61.
+Simple got a final utility of -2.485881329394484
+A&E got a final utility of 0
+CJM2 won Good J at Price 21.31, Good E at Price 18.71, Good K at Price 14.36, Good F at Price 11.05, Good R at Price 15.13, Good L at Price 25.42.
+CJM2 got a final utility of 81.85241818983013
+Friendly Agent won Good A at Price 0.30, Good B at Price 3.30, Good N at Price 17.09, Good G at Price 0.90.
+Friendly Agent got a final utility of 62.436580927106334
+########!!!!!!!!!########2 won Good C at Price 24.29, Good O at Price 18.66.
+########!!!!!!!!!########2 got a final utility of -17.231313292508112
+
+Auction 34: shroobinator VS Simple VS A&E VS CJM2 (National) VS Friendly Agent VS ########!!!!!!!!!########2
+shroobinator won Good J at Price 29.36, Good N at Price 6.55, Good P at Price 13.63, Good I at Price 12.59, Good Q at Price 20.88, Good O at Price 5.20.
+shroobinator got a final utility of 53.66525715310971
+Simple won Good E at Price 34.88, Good K at Price 37.84.
+Simple got a final utility of -51.58439322390216
+A&E won Good R at Price 15.73, Good F at Price 29.66, Good L at Price 25.38, Good D at Price 32.71.
+A&E got a final utility of -56.5603965841065
+CJM2 got a final utility of 0
+Friendly Agent won Good C at Price 36.33, Good A at Price 2.40, Good B at Price 4.05, Good G at Price 3.00, Good M at Price 30.54, Good H at Price 17.66.
+Friendly Agent got a final utility of 106.05929970904405
+########!!!!!!!!!########2 got a final utility of 0
+
+Auction 35: shroobinator VS Simple VS A&E VS CJM2 VS Friendly Agent (National) VS ########!!!!!!!!!########2
+shroobinator won Good N at Price 15.95, Good C at Price 44.65, Good A at Price 11.98, Good I at Price 49.21, Good D at Price 48.12, Good G at Price 11.65, Good H at Price 22.25.
+shroobinator got a final utility of -4.43869139272428
+Simple won Good P at Price 51.47, Good O at Price 46.87.
+Simple got a final utility of -75.59843974272768
+A&E won Good E at Price 31.53, Good J at Price 49.92, Good Q at Price 52.41, Good K at Price 39.74.
+A&E got a final utility of -51.64964623684777
+CJM2 got a final utility of 0
+Friendly Agent won Good M at Price 8.80, Good B at Price 16.16.
+Friendly Agent got a final utility of -14.999800492312993
+########!!!!!!!!!########2 won Good R at Price 16.47, Good F at Price 40.16, Good L at Price 37.16.
+########!!!!!!!!!########2 got a final utility of -20.26380368719822
+
+Auction 36: shroobinator VS Simple VS A&E VS CJM2 VS Friendly Agent VS ########!!!!!!!!!########2 (National)
+shroobinator won Good P at Price 24.20, Good R at Price 11.97, Good L at Price 26.64.
+shroobinator got a final utility of -27.63030233203729
+Simple won Good J at Price 41.02, Good E at Price 42.46, Good K at Price 45.51, Good F at Price 33.45, Good D at Price 42.83, Good Q at Price 44.22.
+Simple got a final utility of -73.93989731972675
+A&E won Good N at Price 6.10, Good C at Price 23.74, Good A at Price 7.80, Good B at Price 6.10, Good I at Price 30.74, Good G at Price 8.80, Good M at Price 8.80, Good H at Price 19.51, Good O at Price 29.46.
+A&E got a final utility of 128.56967589961516
+CJM2 got a final utility of 0
+Friendly Agent got a final utility of 0
+########!!!!!!!!!########2 got a final utility of 0
+
+Auction 37: shroobinator (National) VS TA - SECRET VS singleton VS TA - Jumper VS TA - Confidence VS Friendly Agent
+shroobinator won Good E at Price 17.81, Good A at Price 0.10, Good B at Price 6.30, Good K at Price 17.75, Good D at Price 13.13, Good G at Price 6.36, Good L at Price 17.62.
+shroobinator got a final utility of -39.2604971695783
+TA - SECRET got a final utility of 0
+singleton won Good C at Price 19.02, Good F at Price 4.10.
+singleton got a final utility of 7.983517685352396
+TA - Jumper got a final utility of 0
+TA - Confidence won Good R at Price 6.76.
+TA - Confidence got a final utility of 4.398402634808808
+Friendly Agent won Good J at Price 19.24, Good N at Price 16.20, Good P at Price 19.24, Good I at Price 20.06, Good Q at Price 17.20, Good M at Price 13.48, Good H at Price 19.77, Good O at Price 19.06.
+Friendly Agent got a final utility of 127.07710923248953
+
+Auction 38: shroobinator VS TA - SECRET (National) VS singleton VS TA - Jumper VS TA - Confidence VS Friendly Agent
+shroobinator won Good K at Price 15.22, Good F at Price 11.37.
+shroobinator got a final utility of -1.9742275513151988
+TA - SECRET won Good M at Price 4.00, Good G at Price 2.30.
+TA - SECRET got a final utility of 6.000164259137344
+singleton won Good R at Price 23.74, Good L at Price 11.51, Good Q at Price 23.35.
+singleton got a final utility of 9.410669477571773
+TA - Jumper won Good A at Price 7.79, Good B at Price 11.02, Good H at Price 9.51, Good D at Price 19.14.
+TA - Jumper got a final utility of 17.215601465430524
+TA - Confidence won Good N at Price 11.32, Good O at Price 9.41.
+TA - Confidence got a final utility of 10.672192572111658
+Friendly Agent won Good J at Price 17.57, Good P at Price 12.27, Good C at Price 17.92, Good E at Price 15.33, Good I at Price 14.99.
+Friendly Agent got a final utility of 16.91762086845577
+
+Auction 39: shroobinator VS TA - SECRET VS singleton (National) VS TA - Jumper VS TA - Confidence VS Friendly Agent
+shroobinator won Good N at Price 8.80, Good A at Price 5.60, Good B at Price 3.50, Good I at Price 14.29, Good D at Price 17.41, Good G at Price 5.70, Good H at Price 8.80.
+shroobinator got a final utility of 126.0018335523226
+TA - SECRET got a final utility of 0
+singleton got a final utility of 0
+TA - Jumper won Good L at Price 14.08.
+TA - Jumper got a final utility of 1.105899487680837
+TA - Confidence won Good E at Price 17.12, Good R at Price 15.29, Good K at Price 8.86, Good F at Price 12.47.
+TA - Confidence got a final utility of 18.000008367506155
+Friendly Agent won Good J at Price 6.09, Good P at Price 17.30, Good C at Price 8.80, Good Q at Price 16.44, Good M at Price 5.70, Good O at Price 5.70.
+Friendly Agent got a final utility of 70.53073169889696
+
+Auction 40: shroobinator VS TA - SECRET VS singleton VS TA - Jumper (National) VS TA - Confidence VS Friendly Agent
+shroobinator won Good J at Price 24.48, Good E at Price 32.79, Good K at Price 9.94, Good L at Price 18.99, Good O at Price 9.65.
+shroobinator got a final utility of -0.7285686740629842
+TA - SECRET won Good B at Price 7.90, Good I at Price 8.58, Good D at Price 6.84, Good C at Price 5.59.
+TA - SECRET got a final utility of 65.72358354544821
+singleton won Good R at Price 19.68, Good P at Price 17.76, Good Q at Price 15.77, Good F at Price 4.99.
+singleton got a final utility of 6.660237027675947
+TA - Jumper got a final utility of 0
+TA - Confidence got a final utility of 0
+Friendly Agent won Good N at Price 7.08, Good A at Price 8.23, Good G at Price 4.03, Good M at Price 6.11, Good H at Price 9.93.
+Friendly Agent got a final utility of 110.12473440725805
+
+Auction 41: shroobinator VS TA - SECRET VS singleton VS TA - Jumper VS TA - Confidence (National) VS Friendly Agent
+shroobinator won Good N at Price 18.10, Good C at Price 8.96, Good A at Price 11.66, Good B at Price 14.09, Good I at Price 15.89, Good G at Price 14.98, Good M at Price 3.60, Good O at Price 16.64.
+shroobinator got a final utility of 125.16950201735851
+TA - SECRET got a final utility of 0
+singleton won Good J at Price 17.41, Good P at Price 17.38, Good K at Price 17.25, Good F at Price 24.42, Good R at Price 20.73, Good Q at Price 13.99.
+singleton got a final utility of -1.3747298991478374
+TA - Jumper won Good H at Price 18.87, Good D at Price 18.83.
+TA - Jumper got a final utility of 4.469126985182477
+TA - Confidence got a final utility of 0
+Friendly Agent won Good E at Price 19.67, Good L at Price 18.68.
+Friendly Agent got a final utility of -10.290517683826351
+
+Auction 42: shroobinator VS TA - SECRET VS singleton VS TA - Jumper VS TA - Confidence VS Friendly Agent (National)
+shroobinator won Good D at Price 13.95.
+shroobinator got a final utility of -8.521117381575845
+TA - SECRET got a final utility of 0
+singleton won Good R at Price 11.55, Good L at Price 11.32.
+singleton got a final utility of 17.003219464165795
+TA - Jumper got a final utility of 0
+TA - Confidence got a final utility of 0
+Friendly Agent won Good C at Price 12.88, Good E at Price 23.17, Good A at Price 8.51, Good B at Price 17.68, Good I at Price 19.57, Good K at Price 17.78, Good J at Price 23.26, Good N at Price 15.68, Good P at Price 25.40, Good F at Price 27.97, Good G at Price 16.10, Good Q at Price 10.70, Good M at Price 17.25, Good H at Price 5.04, Good O at Price 11.55.
+Friendly Agent got a final utility of 145.89228957868912
+
+Auction 43: singleton(1) (National) VS singleton VS ########!!!!!!!!!########2 VS A&E_updated VS TA - Confidence VS TA - RANDOM
+singleton(1) got a final utility of 0
+singleton won Good J at Price 18.76, Good P at Price 19.03, Good F at Price 13.20, Good R at Price 12.80, Good Q at Price 7.43, Good L at Price 11.53.
+singleton got a final utility of 44.8190452363353
+########!!!!!!!!!########2 won Good C at Price 8.40, Good E at Price 22.19, Good B at Price 4.10, Good K at Price 23.86, Good D at Price 19.50.
+########!!!!!!!!!########2 got a final utility of 73.53826860823096
+A&E_updated won Good M at Price 8.00, Good A at Price 3.90, Good H at Price 7.70, Good G at Price 4.50.
+A&E_updated got a final utility of 49.39774572274929
+TA - Confidence got a final utility of 0
+TA - RANDOM won Good N at Price 11.30, Good I at Price 14.70, Good O at Price 11.30.
+TA - RANDOM got a final utility of 25.789870451888874
+
+Auction 44: singleton(1) VS singleton (National) VS ########!!!!!!!!!########2 VS A&E_updated VS TA - Confidence VS TA - RANDOM
+singleton(1) won Good J at Price 26.01, Good C at Price 16.00, Good E at Price 12.70, Good K at Price 9.40, Good D at Price 7.50, Good R at Price 20.30.
+singleton(1) got a final utility of -13.663088406360458
+singleton won Good A at Price 0.10, Good G at Price 0.10.
+singleton got a final utility of 16.465550861231
+########!!!!!!!!!########2 won Good Q at Price 27.86, Good L at Price 20.70, Good F at Price 17.50.
+########!!!!!!!!!########2 got a final utility of -7.846538605092903
+A&E_updated won Good N at Price 18.20, Good P at Price 29.53, Good I at Price 18.80, Good M at Price 17.60, Good H at Price 19.40, Good O at Price 10.31.
+A&E_updated got a final utility of 60.76056433036729
+TA - Confidence got a final utility of 0
+TA - RANDOM won Good B at Price 11.60.
+TA - RANDOM got a final utility of 0.8993469090971953
+
+Auction 45: singleton(1) VS singleton VS ########!!!!!!!!!########2 (National) VS A&E_updated VS TA - Confidence VS TA - RANDOM
+singleton(1) won Good J at Price 14.80, Good M at Price 14.80.
+singleton(1) got a final utility of 7.687566205536154
+singleton won Good P at Price 10.20, Good E at Price 18.06, Good B at Price 14.80, Good I at Price 14.80, Good K at Price 20.06, Good F at Price 8.83, Good D at Price 19.02, Good Q at Price 7.30, Good L at Price 7.50, Good O at Price 11.80.
+singleton got a final utility of 99.01341963922263
+########!!!!!!!!!########2 got a final utility of 0
+A&E_updated won Good H at Price 14.60, Good G at Price 14.00, Good C at Price 14.80.
+A&E_updated got a final utility of -19.324253717386497
+TA - Confidence won Good R at Price 18.30.
+TA - Confidence got a final utility of 2.330076632009799
+TA - RANDOM won Good N at Price 14.80, Good A at Price 14.80.
+TA - RANDOM got a final utility of 8.501441377452988
+
+Auction 46: singleton(1) VS singleton VS ########!!!!!!!!!########2 VS A&E_updated (National) VS TA - Confidence VS TA - RANDOM
+singleton(1) got a final utility of 0
+singleton won Good P at Price 21.40, Good E at Price 18.29, Good F at Price 4.80, Good D at Price 17.30, Good R at Price 14.02, Good L at Price 19.26.
+singleton got a final utility of -34.121055944200904
+########!!!!!!!!!########2 won Good J at Price 33.31, Good I at Price 17.30, Good K at Price 25.52, Good Q at Price 20.02.
+########!!!!!!!!!########2 got a final utility of 5.780374323211802
+A&E_updated won Good N at Price 16.80, Good C at Price 16.50, Good A at Price 3.00, Good B at Price 15.10, Good G at Price 16.30, Good M at Price 3.40, Good H at Price 15.90, Good O at Price 28.20.
+A&E_updated got a final utility of -44.07936335427378
+TA - Confidence got a final utility of 0
+TA - RANDOM got a final utility of 0
+
+Auction 47: singleton(1) VS singleton VS ########!!!!!!!!!########2 VS A&E_updated VS TA - Confidence (National) VS TA - RANDOM
+singleton(1) got a final utility of 0
+singleton won Good P at Price 6.38, Good K at Price 20.73, Good F at Price 19.05, Good R at Price 12.03, Good Q at Price 17.19, Good L at Price 7.64.
+singleton got a final utility of 79.97507535521189
+########!!!!!!!!!########2 won Good J at Price 7.73, Good B at Price 25.11, Good I at Price 17.07, Good M at Price 13.90.
+########!!!!!!!!!########2 got a final utility of -1.4885620832271869
+A&E_updated won Good N at Price 13.08, Good C at Price 12.58, Good D at Price 9.10, Good G at Price 19.57, Good H at Price 17.14.
+A&E_updated got a final utility of -6.167691747317932
+TA - Confidence won Good E at Price 8.60.
+TA - Confidence got a final utility of 0.02463744164636239
+TA - RANDOM won Good A at Price 12.40, Good O at Price 13.20.
+TA - RANDOM got a final utility of 13.378646330307024
+
+Auction 48: singleton(1) VS singleton VS ########!!!!!!!!!########2 VS A&E_updated VS TA - Confidence VS TA - RANDOM (National)
+singleton(1) won Good I at Price 7.90, Good D at Price 7.60.
+singleton(1) got a final utility of 8.806657046242472
+singleton won Good J at Price 23.28, Good C at Price 7.70, Good E at Price 26.55, Good F at Price 4.70, Good L at Price 24.24.
+singleton got a final utility of 6.834274239702538
+########!!!!!!!!!########2 won Good N at Price 6.10, Good P at Price 16.95, Good G at Price 4.30, Good M at Price 4.50, Good H at Price 6.70, Good O at Price 25.03.
+########!!!!!!!!!########2 got a final utility of 70.08293296178483
+A&E_updated won Good R at Price 7.50, Good Q at Price 15.52, Good K at Price 23.50.
+A&E_updated got a final utility of 11.26433990806921
+TA - Confidence got a final utility of 0
+TA - RANDOM won Good A at Price 7.40, Good B at Price 7.60.
+TA - RANDOM got a final utility of 0.5071448718982605
+
+Auction 49: ########!!!!!!!!!########2 (National) VS TA - MinBidder VS TA - RANDOM VS Friendly Agent VS A&E_updated VS M_Agent2
+########!!!!!!!!!########2 got a final utility of 0
+TA - MinBidder won Good M at Price 7.40, Good A at Price 17.60, Good H at Price 17.99.
+TA - MinBidder got a final utility of 3.4392469251685895
+TA - RANDOM won Good B at Price 18.50, Good G at Price 18.50.
+TA - RANDOM got a final utility of 3.4357267549001875
+Friendly Agent won Good C at Price 15.40, Good E at Price 7.80, Good I at Price 42.55, Good D at Price 31.72, Good L at Price 18.60.
+Friendly Agent got a final utility of 3.57540319824669
+A&E_updated won Good P at Price 40.16, Good K at Price 31.59, Good F at Price 6.00, Good Q at Price 32.67, Good R at Price 14.20.
+A&E_updated got a final utility of -8.602614590718773
+M_Agent2 won Good J at Price 24.67, Good N at Price 20.70, Good O at Price 25.91.
+M_Agent2 got a final utility of -30.47609352380259
+
+Auction 50: ########!!!!!!!!!########2 VS TA - MinBidder (National) VS TA - RANDOM VS Friendly Agent VS A&E_updated VS M_Agent2
+########!!!!!!!!!########2 won Good M at Price 6.30, Good A at Price 7.80, Good N at Price 18.01, Good O at Price 17.94.
+########!!!!!!!!!########2 got a final utility of 4.659293625304436
+TA - MinBidder got a final utility of 0
+TA - RANDOM got a final utility of 0
+Friendly Agent won Good J at Price 20.83, Good P at Price 17.90, Good B at Price 7.90, Good I at Price 5.20, Good G at Price 16.80, Good H at Price 17.94.
+Friendly Agent got a final utility of 100.73718268790482
+A&E_updated won Good K at Price 31.65, Good F at Price 17.90, Good Q at Price 9.10, Good R at Price 7.00, Good L at Price 12.10.
+A&E_updated got a final utility of 25.36023351428615
+M_Agent2 won Good E at Price 17.90, Good D at Price 20.14, Good C at Price 10.41.
+M_Agent2 got a final utility of -5.932312892875906
+
+Auction 51: ########!!!!!!!!!########2 VS TA - MinBidder VS TA - RANDOM (National) VS Friendly Agent VS A&E_updated VS M_Agent2
+########!!!!!!!!!########2 got a final utility of 0
+TA - MinBidder won Good E at Price 17.40, Good R at Price 19.40, Good F at Price 10.50, Good L at Price 16.60.
+TA - MinBidder got a final utility of 51.385780473558405
+TA - RANDOM got a final utility of 0
+Friendly Agent won Good M at Price 17.06, Good A at Price 8.70, Good C at Price 37.11.
+Friendly Agent got a final utility of -19.334752620033342
+A&E_updated won Good J at Price 21.20, Good N at Price 30.49, Good P at Price 25.81, Good B at Price 21.30, Good I at Price 28.69, Good K at Price 15.30, Good D at Price 4.90, Good G at Price 21.30, Good H at Price 23.44, Good O at Price 28.19.
+A&E_updated got a final utility of 73.96061709721101
+M_Agent2 won Good Q at Price 10.00.
+M_Agent2 got a final utility of -6.24478139339508
+
+Auction 52: ########!!!!!!!!!########2 VS TA - MinBidder VS TA - RANDOM VS Friendly Agent (National) VS A&E_updated VS M_Agent2
+########!!!!!!!!!########2 got a final utility of 0
+TA - MinBidder got a final utility of 0
+TA - RANDOM got a final utility of 0
+Friendly Agent won Good N at Price 42.50, Good P at Price 52.03, Good C at Price 29.84, Good E at Price 16.90, Good A at Price 16.00, Good B at Price 22.52, Good I at Price 42.99, Good K at Price 30.16, Good F at Price 0.10, Good D at Price 29.82, Good Q at Price 29.74, Good G at Price 18.34, Good L at Price 10.10, Good M at Price 19.09, Good H at Price 25.24, Good O at Price 46.23.
+Friendly Agent got a final utility of -1.5515644836534648
+A&E_updated won Good J at Price 29.88, Good R at Price 29.60.
+A&E_updated got a final utility of -42.50023156661397
+M_Agent2 got a final utility of 0
+
+Auction 53: ########!!!!!!!!!########2 VS TA - MinBidder VS TA - RANDOM VS Friendly Agent VS A&E_updated (National) VS M_Agent2
+########!!!!!!!!!########2 got a final utility of 0
+TA - MinBidder won Good A at Price 19.10.
+TA - MinBidder got a final utility of 1.5346718075877561
+TA - RANDOM won Good M at Price 16.30.
+TA - RANDOM got a final utility of 1.2719026148933672
+Friendly Agent won Good E at Price 28.13, Good C at Price 27.60, Good B at Price 27.70, Good F at Price 15.20.
+Friendly Agent got a final utility of -34.89722036213422
+A&E_updated won Good J at Price 32.99, Good N at Price 15.70, Good P at Price 20.18, Good I at Price 23.64, Good D at Price 27.76, Good G at Price 13.60, Good H at Price 10.90, Good O at Price 11.49.
+A&E_updated got a final utility of -95.01363428144623
+M_Agent2 won Good R at Price 22.80, Good L at Price 27.60, Good K at Price 36.89, Good Q at Price 22.10.
+M_Agent2 got a final utility of -5.032229522710736
+
+Auction 54: ########!!!!!!!!!########2 VS TA - MinBidder VS TA - RANDOM VS Friendly Agent VS A&E_updated VS M_Agent2 (National)
+########!!!!!!!!!########2 won Good M at Price 18.55, Good A at Price 18.50, Good H at Price 30.01, Good O at Price 35.83.
+########!!!!!!!!!########2 got a final utility of -33.8703738606023
+TA - MinBidder got a final utility of 0
+TA - RANDOM won Good R at Price 17.98.
+TA - RANDOM got a final utility of 1.3648162176315815
+Friendly Agent got a final utility of 0
+A&E_updated won Good J at Price 17.00, Good N at Price 32.16, Good P at Price 34.57, Good C at Price 14.40, Good B at Price 25.69, Good I at Price 29.58, Good K at Price 17.20, Good D at Price 14.50, Good G at Price 37.79.
+A&E_updated got a final utility of 31.470159433964767
+M_Agent2 won Good E at Price 14.20, Good Q at Price 14.94, Good F at Price 14.20, Good L at Price 14.37.
+M_Agent2 got a final utility of -35.4403182489588
+
+Auction 55: singleton(1) (National) VS TA - Truthful VS TA - RANDOM VS A&E_updated VS PW - Hot'n'Cold VS shroobinator(1)
+singleton(1) won Good J at Price 0.40, Good P at Price 0.40, Good Q at Price 0.50, Good O at Price 0.20.
+singleton(1) got a final utility of 30.809664617562632
+TA - Truthful won Good M at Price 16.40, Good B at Price 8.46.
+TA - Truthful got a final utility of 4.18925770352903
+TA - RANDOM won Good H at Price 17.90, Good I at Price 16.40.
+TA - RANDOM got a final utility of 9.149478392753991
+A&E_updated won Good E at Price 11.00, Good K at Price 11.10, Good D at Price 25.20, Good F at Price 11.10, Good R at Price 11.20, Good L at Price 11.30.
+A&E_updated got a final utility of 73.91289393223579
+PW - Hot'n'Cold won Good N at Price 16.40, Good C at Price 17.80, Good A at Price 22.25, Good B at Price 8.46, Good D at Price 25.20, Good G at Price 23.92, Good H at Price 17.90.
+PW - Hot'n'Cold got a final utility of 52.68630805597246
+shroobinator(1) got a final utility of 0
+
+Auction 56: singleton(1) VS TA - Truthful (National) VS TA - RANDOM VS A&E_updated VS PW - Hot'n'Cold VS shroobinator(1)
+singleton(1) won Good B at Price 12.01, Good G at Price 20.75.
+singleton(1) got a final utility of -2.606562139994537
+TA - Truthful won Good R at Price 4.20, Good L at Price 4.50.
+TA - Truthful got a final utility of 0.17393901595206707
+TA - RANDOM won Good N at Price 15.40, Good Q at Price 8.40, Good O at Price 15.40.
+TA - RANDOM got a final utility of 11.185449637768173
+A&E_updated won Good M at Price 18.78, Good H at Price 14.62, Good A at Price 33.14.
+A&E_updated got a final utility of -34.99717613891016
+PW - Hot'n'Cold won Good J at Price 18.71, Good P at Price 21.27, Good C at Price 42.29, Good E at Price 15.25, Good B at Price 12.01, Good I at Price 15.22, Good K at Price 16.96, Good D at Price 9.54, Good F at Price 20.37.
+PW - Hot'n'Cold got a final utility of 38.78005359395323
+shroobinator(1) won Good E at Price 15.25, Good D at Price 9.54, Good C at Price 42.29.
+shroobinator(1) got a final utility of -2.6518322046100025
+
+Auction 57: singleton(1) VS TA - Truthful VS TA - RANDOM (National) VS A&E_updated VS PW - Hot'n'Cold VS shroobinator(1)
+singleton(1) won Good J at Price 25.96, Good E at Price 11.39, Good A at Price 8.60, Good B at Price 6.30, Good K at Price 8.70, Good D at Price 8.80, Good G at Price 7.00, Good O at Price 19.01.
+singleton(1) got a final utility of 28.709780818829415
+TA - Truthful got a final utility of 0
+TA - RANDOM got a final utility of 0
+A&E_updated won Good N at Price 5.90, Good P at Price 19.87, Good C at Price 15.33, Good I at Price 22.38, Good Q at Price 15.58, Good M at Price 7.90, Good H at Price 14.08.
+A&E_updated got a final utility of 71.38596743604498
+PW - Hot'n'Cold won Good K at Price 8.70, Good F at Price 11.30, Good R at Price 9.83, Good Q at Price 15.58, Good L at Price 38.94.
+PW - Hot'n'Cold got a final utility of 15.000876918226382
+shroobinator(1) got a final utility of 0
+
+Auction 58: singleton(1) VS TA - Truthful VS TA - RANDOM VS A&E_updated (National) VS PW - Hot'n'Cold VS shroobinator(1)
+singleton(1) got a final utility of 0
+TA - Truthful got a final utility of 0
+TA - RANDOM got a final utility of 0
+A&E_updated won Good J at Price 27.09, Good N at Price 12.71, Good P at Price 20.00, Good C at Price 24.02, Good B at Price 40.56, Good K at Price 26.10, Good D at Price 34.56, Good O at Price 6.59.
+A&E_updated got a final utility of -125.88757933911016
+PW - Hot'n'Cold won Good J at Price 27.09, Good P at Price 20.00, Good E at Price 21.00, Good I at Price 45.69, Good D at Price 34.56, Good F at Price 18.10, Good R at Price 25.70, Good Q at Price 26.10, Good L at Price 26.00.
+PW - Hot'n'Cold got a final utility of 17.64078429120235
+shroobinator(1) won Good A at Price 43.35, Good I at Price 45.69, Good G at Price 17.34, Good M at Price 9.20, Good H at Price 42.06.
+shroobinator(1) got a final utility of -8.070020881191738
+
+Auction 59: singleton(1) VS TA - Truthful VS TA - RANDOM VS A&E_updated VS PW - Hot'n'Cold (National) VS shroobinator(1)
+singleton(1) got a final utility of 0
+TA - Truthful got a final utility of 0
+TA - RANDOM got a final utility of 0
+A&E_updated won Good J at Price 25.60, Good C at Price 22.00, Good A at Price 34.23, Good B at Price 30.44, Good I at Price 37.81, Good G at Price 17.77, Good M at Price 28.47, Good H at Price 51.04, Good O at Price 30.60.
+A&E_updated got a final utility of 1.699163905789419
+PW - Hot'n'Cold won Good N at Price 38.82, Good P at Price 30.38, Good C at Price 22.00, Good E at Price 25.50, Good A at Price 34.23, Good B at Price 30.44, Good I at Price 37.81, Good K at Price 25.50, Good F at Price 14.60, Good D at Price 21.20, Good Q at Price 25.40, Good G at Price 17.77, Good R at Price 24.90, Good L at Price 14.70, Good M at Price 28.47, Good H at Price 51.04, Good O at Price 30.60.
+PW - Hot'n'Cold got a final utility of -33.04653104863297
+shroobinator(1) won Good N at Price 38.82.
+shroobinator(1) got a final utility of -23.830572916262724
+
+Auction 60: singleton(1) VS TA - Truthful VS TA - RANDOM VS A&E_updated VS PW - Hot'n'Cold VS shroobinator(1) (National)
+singleton(1) won Good N at Price 19.84.
+singleton(1) got a final utility of -1.6145300106397222
+TA - Truthful got a final utility of 0
+TA - RANDOM got a final utility of 0
+A&E_updated won Good J at Price 30.89, Good C at Price 24.40, Good I at Price 23.10, Good D at Price 40.31, Good H at Price 23.95, Good O at Price 28.42.
+A&E_updated got a final utility of -22.016379870254923
+PW - Hot'n'Cold won Good R at Price 31.07, Good L at Price 36.57, Good F at Price 19.41.
+PW - Hot'n'Cold got a final utility of -30.818168231426462
+shroobinator(1) won Good P at Price 38.85, Good E at Price 36.18, Good A at Price 10.50, Good B at Price 29.94, Good K at Price 33.23, Good F at Price 19.41, Good R at Price 31.07, Good G at Price 20.00, Good Q at Price 31.04, Good M at Price 13.10.
+shroobinator(1) got a final utility of -192.63466547013013
+
+Auction 61: singleton(1) (National) VS TA - Truthful VS TA - Jumper VS A&E_updated VS TA - Confidence VS TA - SECRET
+singleton(1) won Good F at Price 0.20.
+singleton(1) got a final utility of 8.426986137323004
+TA - Truthful won Good M at Price 14.87.
+TA - Truthful got a final utility of 1.157640886553624
+TA - Jumper won Good R at Price 14.54.
+TA - Jumper got a final utility of 1.1470852079184493
+A&E_updated won Good J at Price 15.54, Good P at Price 8.57, Good C at Price 17.20, Good E at Price 6.00, Good I at Price 19.83, Good K at Price 11.50, Good D at Price 9.72, Good Q at Price 13.80, Good L at Price 6.70, Good H at Price 37.59, Good O at Price 14.96.
+A&E_updated got a final utility of 161.96221474839552
+TA - Confidence got a final utility of 0
+TA - SECRET won Good N at Price 20.69, Good B at Price 25.89, Good G at Price 30.89, Good A at Price 25.99.
+TA - SECRET got a final utility of -16.162506871046034
+
+Auction 62: singleton(1) VS TA - Truthful (National) VS TA - Jumper VS A&E_updated VS TA - Confidence VS TA - SECRET
+singleton(1) won Good N at Price 8.46, Good P at Price 18.85, Good B at Price 15.14, Good G at Price 7.32, Good M at Price 9.80, Good H at Price 9.20, Good O at Price 3.41.
+singleton(1) got a final utility of 110.19472185358545
+TA - Truthful won Good R at Price 8.69, Good Q at Price 7.40.
+TA - Truthful got a final utility of 0.0430045007928932
+TA - Jumper won Good L at Price 13.90.
+TA - Jumper got a final utility of 1.766467991710135
+A&E_updated won Good J at Price 6.52, Good C at Price 11.18, Good E at Price 10.58, Good I at Price 25.83, Good K at Price 16.86, Good D at Price 12.65, Good F at Price 5.81.
+A&E_updated got a final utility of 131.43384598470362
+TA - Confidence won Good A at Price 13.40.
+TA - Confidence got a final utility of 1.0678344010503338
+TA - SECRET got a final utility of 0
+
+Auction 63: singleton(1) VS TA - Truthful VS TA - Jumper (National) VS A&E_updated VS TA - Confidence VS TA - SECRET
+singleton(1) won Good J at Price 16.59, Good F at Price 8.80, Good R at Price 22.02, Good Q at Price 17.20, Good L at Price 12.18.
+singleton(1) got a final utility of 22.51439218583583
+TA - Truthful won Good E at Price 13.85.
+TA - Truthful got a final utility of 7.5460399869471235
+TA - Jumper won Good A at Price 4.00, Good B at Price 8.40.
+TA - Jumper got a final utility of 0.12647481251707404
+A&E_updated won Good N at Price 15.90, Good P at Price 22.84, Good I at Price 9.94, Good K at Price 19.82, Good D at Price 10.52, Good O at Price 13.13.
+A&E_updated got a final utility of -5.335240202650752
+TA - Confidence won Good M at Price 9.81, Good H at Price 9.71, Good G at Price 14.74, Good C at Price 10.47.
+TA - Confidence got a final utility of 15.896855827505327
+TA - SECRET got a final utility of 0
+
+Auction 64: singleton(1) VS TA - Truthful VS TA - Jumper VS A&E_updated (National) VS TA - Confidence VS TA - SECRET
+singleton(1) won Good M at Price 10.80, Good A at Price 18.45, Good B at Price 19.62, Good C at Price 24.60.
+singleton(1) got a final utility of 0.6766659615994257
+TA - Truthful won Good N at Price 19.12.
+TA - Truthful got a final utility of 1.7417070472368863
+TA - Jumper got a final utility of 0
+A&E_updated won Good E at Price 21.19, Good I at Price 22.24, Good K at Price 17.00, Good D at Price 17.38, Good F at Price 11.20, Good G at Price 9.50, Good L at Price 13.96, Good H at Price 21.83.
+A&E_updated got a final utility of -88.92171665563033
+TA - Confidence got a final utility of 0
+TA - SECRET won Good J at Price 28.15, Good P at Price 14.30, Good R at Price 14.30, Good Q at Price 21.86, Good O at Price 29.15.
+TA - SECRET got a final utility of 23.22170086244293
+
+Auction 65: singleton(1) VS TA - Truthful VS TA - Jumper VS A&E_updated VS TA - Confidence (National) VS TA - SECRET
+singleton(1) won Good I at Price 7.88, Good P at Price 12.37, Good R at Price 18.25, Good D at Price 13.18.
+singleton(1) got a final utility of -0.8704823099609342
+TA - Truthful got a final utility of 0
+TA - Jumper won Good J at Price 9.95, Good E at Price 5.57, Good K at Price 8.68, Good F at Price 7.58, Good Q at Price 11.49.
+TA - Jumper got a final utility of 88.15835259092233
+A&E_updated won Good N at Price 18.55, Good B at Price 20.00, Good G at Price 15.76, Good M at Price 16.23, Good H at Price 19.50, Good O at Price 13.25.
+A&E_updated got a final utility of 82.96116165642005
+TA - Confidence won Good A at Price 14.96, Good L at Price 5.69, Good C at Price 15.36.
+TA - Confidence got a final utility of -12.72929929201442
+TA - SECRET got a final utility of 0
+
+Auction 66: singleton(1) VS TA - Truthful VS TA - Jumper VS A&E_updated VS TA - Confidence VS TA - SECRET (National)
+singleton(1) won Good P at Price 4.30, Good K at Price 10.89, Good D at Price 17.68, Good F at Price 18.85, Good R at Price 8.67, Good L at Price 8.09.
+singleton(1) got a final utility of 18.674089875719332
+TA - Truthful won Good G at Price 18.16.
+TA - Truthful got a final utility of 1.4467168536791775
+TA - Jumper won Good M at Price 16.36, Good N at Price 12.05.
+TA - Jumper got a final utility of 5.538199291007508
+A&E_updated won Good J at Price 14.16, Good C at Price 11.75, Good E at Price 22.01, Good A at Price 16.29, Good B at Price 14.65, Good I at Price 11.81, Good H at Price 13.66, Good O at Price 9.81.
+A&E_updated got a final utility of 124.86869996259199
+TA - Confidence won Good Q at Price 16.18.
+TA - Confidence got a final utility of 4.43797310457801
+TA - SECRET got a final utility of 0
+
+Auction 67: TA - MinBidder (National) VS shroobinator(1) VS TA - RANDOM VS CJM2 VS A&E_updated VS singleton(1)
+TA - MinBidder got a final utility of 0
+shroobinator(1) won Good P at Price 9.42.
+shroobinator(1) got a final utility of 8.325305736092426
+TA - RANDOM won Good R at Price 12.30, Good Q at Price 12.30, Good L at Price 12.30, Good D at Price 12.30.
+TA - RANDOM got a final utility of 44.76112920152987
+CJM2 won Good O at Price 6.90.
+CJM2 got a final utility of 9.703086888198545
+A&E_updated won Good E at Price 7.70, Good J at Price 12.30, Good K at Price 6.40, Good F at Price 12.30.
+A&E_updated got a final utility of 29.595558201900516
+singleton(1) won Good N at Price 5.90, Good C at Price 4.30, Good A at Price 7.80, Good B at Price 12.64, Good I at Price 15.92, Good G at Price 7.82, Good M at Price 7.70, Good H at Price 5.70.
+singleton(1) got a final utility of 168.20990310661267
+
+Auction 68: TA - MinBidder VS shroobinator(1) (National) VS TA - RANDOM VS CJM2 VS A&E_updated VS singleton(1)
+TA - MinBidder won Good N at Price 14.30, Good A at Price 14.30.
+TA - MinBidder got a final utility of 12.323385511255246
+shroobinator(1) won Good C at Price 25.72, Good B at Price 19.22, Good I at Price 24.88, Good K at Price 26.02, Good D at Price 27.83, Good R at Price 2.70, Good G at Price 3.20, Good M at Price 14.30, Good H at Price 13.40, Good O at Price 5.20.
+shroobinator(1) got a final utility of -80.76169097167445
+TA - RANDOM got a final utility of 0
+CJM2 won Good P at Price 20.37.
+CJM2 got a final utility of -9.123684488313447
+A&E_updated won Good J at Price 26.14, Good E at Price 19.78, Good F at Price 26.25, Good Q at Price 14.30, Good L at Price 14.30.
+A&E_updated got a final utility of -36.342018759349884
+singleton(1) got a final utility of 0
+
+Auction 69: TA - MinBidder VS shroobinator(1) VS TA - RANDOM (National) VS CJM2 VS A&E_updated VS singleton(1)
+TA - MinBidder won Good P at Price 12.00, Good R at Price 12.00, Good F at Price 12.00.
+TA - MinBidder got a final utility of 16.688080724350897
+shroobinator(1) got a final utility of 0
+TA - RANDOM won Good Q at Price 8.10.
+TA - RANDOM got a final utility of 0.06425924229848867
+CJM2 won Good J at Price 14.70, Good C at Price 11.80, Good M at Price 12.00, Good H at Price 12.00, Good O at Price 9.47.
+CJM2 got a final utility of -6.2097563945426515
+A&E_updated won Good E at Price 6.00, Good L at Price 10.60, Good K at Price 11.10, Good D at Price 11.10.
+A&E_updated got a final utility of 36.37608607810712
+singleton(1) won Good N at Price 11.20, Good A at Price 17.15, Good B at Price 18.91, Good I at Price 24.94, Good G at Price 9.90.
+singleton(1) got a final utility of -28.380788770591174
+
+Auction 70: TA - MinBidder VS shroobinator(1) VS TA - RANDOM VS CJM2 (National) VS A&E_updated VS singleton(1)
+TA - MinBidder won Good N at Price 17.40, Good I at Price 13.10.
+TA - MinBidder got a final utility of 2.4857041818294583
+shroobinator(1) won Good C at Price 22.86, Good B at Price 4.60, Good D at Price 22.40, Good F at Price 29.30.
+shroobinator(1) got a final utility of -3.585522884181529
+TA - RANDOM got a final utility of 0
+CJM2 won Good M at Price 0.10, Good A at Price 0.10, Good H at Price 1.00, Good G at Price 0.40.
+CJM2 got a final utility of 22.555106989423454
+A&E_updated won Good J at Price 15.28, Good P at Price 19.22, Good E at Price 24.44, Good K at Price 17.58, Good R at Price 19.73, Good Q at Price 19.32, Good L at Price 13.64, Good O at Price 11.70.
+A&E_updated got a final utility of 136.28419248900235
+singleton(1) got a final utility of 0
+
+Auction 71: TA - MinBidder VS shroobinator(1) VS TA - RANDOM VS CJM2 VS A&E_updated (National) VS singleton(1)
+TA - MinBidder got a final utility of 0
+shroobinator(1) won Good Q at Price 28.59.
+shroobinator(1) got a final utility of -22.447039524376446
+TA - RANDOM got a final utility of 0
+CJM2 got a final utility of 0
+A&E_updated won Good N at Price 17.90, Good P at Price 19.90, Good C at Price 21.10, Good A at Price 19.50, Good B at Price 18.90, Good G at Price 9.90, Good M at Price 10.50, Good H at Price 10.90, Good O at Price 17.60.
+A&E_updated got a final utility of -24.762274101271103
+singleton(1) won Good J at Price 26.92, Good E at Price 23.55, Good I at Price 21.30, Good K at Price 30.54, Good F at Price 26.09, Good D at Price 32.60, Good R at Price 33.72, Good L at Price 31.64.
+singleton(1) got a final utility of 74.98158953798188
+
+Auction 72: TA - MinBidder VS shroobinator(1) VS TA - RANDOM VS CJM2 VS A&E_updated VS singleton(1) (National)
+TA - MinBidder got a final utility of 0
+shroobinator(1) got a final utility of 0
+TA - RANDOM won Good G at Price 12.50.
+TA - RANDOM got a final utility of 0.9843725729201083
+CJM2 won Good N at Price 7.60, Good P at Price 5.50, Good K at Price 4.30, Good F at Price 4.50, Good D at Price 18.10, Good R at Price 7.70, Good Q at Price 7.90, Good L at Price 5.50, Good H at Price 18.10.
+CJM2 got a final utility of 115.16229299693106
+A&E_updated won Good J at Price 18.10, Good C at Price 11.90, Good E at Price 18.10, Good A at Price 8.70, Good B at Price 14.30, Good I at Price 12.00, Good O at Price 18.10.
+A&E_updated got a final utility of 89.88681842921585
+singleton(1) won Good M at Price 4.20.
+singleton(1) got a final utility of 0.7061238961824818
+Extended Results: 
+                        Agent 1          Agent 2  ...   A5 Score   A6 Score
+0   ########!!!!!!!!!########2              A&E  ... -33.934769  -0.285586
+1   ########!!!!!!!!!########2      A&E_updated  ...   9.393283   1.012074
+2   ########!!!!!!!!!########2      A&E_updated  ...   0.892484   1.254957
+3   ########!!!!!!!!!########2      A&E_updated  ...  35.497718   0.471856
+4   ########!!!!!!!!!########2             CJM2  ...  35.488802  16.206471
+5                  A&E_updated             CJM2  ... -16.411491  35.919471
+6                  A&E_updated   Friendly Agent  ...   4.582551  12.875802
+7                  A&E_updated  PW - Hot'n'Cold  ... -37.864515   9.216392
+8                  A&E_updated  TA - Confidence  ...   1.989185  26.602729
+9               Friendly Agent  TA - Confidence  ...  33.447821   6.613819
+10                    M_Agent2           Simple  ...   0.187340  56.918375
+11                    M_Agent2           Simple  ...   0.994325  22.896987
+
+[12 rows x 12 columns]
